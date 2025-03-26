@@ -1,0 +1,2253 @@
+INFO 2025-03-25 07:46:23,840 autoreload 71178 133906196927936 Watching for file changes with StatReloader
+INFO 2025-03-25 07:47:06,187 views 71178 133906023052992 Starting resume upload process
+INFO 2025-03-25 07:47:06,188 views 71178 133906023052992 Request FILES: <MultiValueDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf (application/pdf)>]}>
+INFO 2025-03-25 07:47:06,189 views 71178 133906023052992 Request data: <QueryDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf (application/pdf)>]}>
+INFO 2025-03-25 07:47:06,189 views 71178 133906023052992 File received: Tarun Kumar resume-1-1.pdf, size: 83527, content_type: application/pdf
+INFO 2025-03-25 07:47:06,191 views 71178 133906023052992 File content read, size: 83527 bytes
+INFO 2025-03-25 07:47:06,191 views 71178 133906023052992 Processing PDF file
+INFO 2025-03-25 07:47:06,294 views 71178 133906023052992 Extracted text length: 2706
+INFO 2025-03-25 07:47:06,294 views 71178 133906023052992 First 100 characters: Tarun
+Kumar
+Rohtak,
+Haryana
+|
+tarunkumar8059@gmail.com
+|
++91
+8307753758
+LinkedIn
+|
+GitHub
+|
+Portfoli
+INFO 2025-03-25 07:47:06,295 views 71178 133906023052992 Parsing resume with LLM
+ERROR 2025-03-25 07:47:07,895 views 71178 133906023052992 Error processing resume: Error parsing resume: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+WARNING 2025-03-25 07:47:07,896 log 71178 133906023052992 Bad Request: /api/candidates/upload_resume/
+INFO 2025-03-25 07:49:46,875 views 71178 133906023052992 Starting resume upload process
+INFO 2025-03-25 07:49:46,879 views 71178 133906023052992 Request FILES: <MultiValueDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf (application/pdf)>]}>
+INFO 2025-03-25 07:49:46,879 views 71178 133906023052992 Request data: <QueryDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf (application/pdf)>]}>
+INFO 2025-03-25 07:49:46,880 views 71178 133906023052992 File received: Tarun Kumar resume-1-1.pdf, size: 83527, content_type: application/pdf
+INFO 2025-03-25 07:49:46,880 views 71178 133906023052992 File content read, size: 83527 bytes
+INFO 2025-03-25 07:49:46,881 views 71178 133906023052992 Processing PDF file
+INFO 2025-03-25 07:49:46,946 views 71178 133906023052992 Extracted text length: 2706
+INFO 2025-03-25 07:49:46,946 views 71178 133906023052992 First 100 characters: Tarun
+Kumar
+Rohtak,
+Haryana
+|
+tarunkumar8059@gmail.com
+|
++91
+8307753758
+LinkedIn
+|
+GitHub
+|
+Portfoli
+INFO 2025-03-25 07:49:46,946 views 71178 133906023052992 Parsing resume with LLM
+ERROR 2025-03-25 07:49:47,307 views 71178 133906023052992 Error processing resume: Error parsing resume: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+WARNING 2025-03-25 07:49:47,307 log 71178 133906023052992 Bad Request: /api/candidates/upload_resume/
+INFO 2025-03-25 07:50:44,965 autoreload 71178 133906196927936 /media/h-57/NewVolume1/coding/sys-tri/resume_matcher/matcher/services.py changed, reloading.
+INFO 2025-03-25 07:50:47,834 autoreload 73242 139737930151360 Watching for file changes with StatReloader
+INFO 2025-03-25 07:51:18,431 autoreload 73242 139737930151360 /media/h-57/NewVolume1/coding/sys-tri/resume_matcher/matcher/services.py changed, reloading.
+INFO 2025-03-25 07:51:19,147 autoreload 73309 140579116299712 Watching for file changes with StatReloader
+INFO 2025-03-25 07:51:31,848 views 73309 140578942613184 Starting resume upload process
+INFO 2025-03-25 07:51:31,849 views 73309 140578942613184 Request FILES: <MultiValueDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf (application/pdf)>]}>
+INFO 2025-03-25 07:51:31,849 views 73309 140578942613184 Request data: <QueryDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf (application/pdf)>]}>
+INFO 2025-03-25 07:51:31,849 views 73309 140578942613184 File received: Tarun Kumar resume-1-1.pdf, size: 83527, content_type: application/pdf
+INFO 2025-03-25 07:51:31,850 views 73309 140578942613184 File content read, size: 83527 bytes
+INFO 2025-03-25 07:51:31,850 views 73309 140578942613184 Processing PDF file
+INFO 2025-03-25 07:51:31,915 views 73309 140578942613184 Extracted text length: 2706
+INFO 2025-03-25 07:51:31,915 views 73309 140578942613184 First 100 characters: Tarun
+Kumar
+Rohtak,
+Haryana
+|
+tarunkumar8059@gmail.com
+|
++91
+8307753758
+LinkedIn
+|
+GitHub
+|
+Portfoli
+INFO 2025-03-25 07:51:31,916 views 73309 140578942613184 Parsing resume with LLM
+ERROR 2025-03-25 07:51:37,800 views 73309 140578942613184 Error processing resume: Error parsing resume: Expecting value: line 1 column 1 (char 0)
+WARNING 2025-03-25 07:51:37,801 log 73309 140578942613184 Bad Request: /api/candidates/upload_resume/
+INFO 2025-03-25 08:37:51,642 views 73309 140578942613184 Starting resume upload process
+INFO 2025-03-25 08:37:51,658 views 73309 140578942613184 Request FILES: <MultiValueDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf (application/pdf)>]}>
+INFO 2025-03-25 08:37:51,659 views 73309 140578942613184 Request data: <QueryDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf (application/pdf)>]}>
+INFO 2025-03-25 08:37:51,659 views 73309 140578942613184 File received: Tarun Kumar resume-1-1.pdf, size: 83527, content_type: application/pdf
+INFO 2025-03-25 08:37:51,660 views 73309 140578942613184 File content read, size: 83527 bytes
+INFO 2025-03-25 08:37:51,660 views 73309 140578942613184 Processing PDF file
+INFO 2025-03-25 08:37:51,777 views 73309 140578942613184 Extracted text length: 2706
+INFO 2025-03-25 08:37:51,777 views 73309 140578942613184 First 100 characters: Tarun
+Kumar
+Rohtak,
+Haryana
+|
+tarunkumar8059@gmail.com
+|
++91
+8307753758
+LinkedIn
+|
+GitHub
+|
+Portfoli
+INFO 2025-03-25 08:37:51,777 views 73309 140578942613184 Parsing resume with LLM
+ERROR 2025-03-25 08:37:57,236 views 73309 140578942613184 Error processing resume: Error parsing resume: Expecting value: line 1 column 1 (char 0)
+WARNING 2025-03-25 08:37:57,238 log 73309 140578942613184 Bad Request: /api/candidates/upload_resume/
+INFO 2025-03-25 08:41:21,738 autoreload 73309 140579116299712 /media/h-57/NewVolume1/coding/sys-tri/resume_matcher/matcher/services.py changed, reloading.
+INFO 2025-03-25 08:41:35,549 autoreload 77138 131039275533760 Watching for file changes with StatReloader
+INFO 2025-03-25 08:43:21,398 views 77138 131039101974208 Starting resume upload process
+INFO 2025-03-25 08:43:21,401 views 77138 131039101974208 Request FILES: <MultiValueDict: {'resume': [<InMemoryUploadedFile: Reg_printnewf.aspx.pdf (application/pdf)>]}>
+INFO 2025-03-25 08:43:21,401 views 77138 131039101974208 Request data: <QueryDict: {'resume': [<InMemoryUploadedFile: Reg_printnewf.aspx.pdf (application/pdf)>]}>
+INFO 2025-03-25 08:43:21,402 views 77138 131039101974208 File received: Reg_printnewf.aspx.pdf, size: 213327, content_type: application/pdf
+INFO 2025-03-25 08:43:21,403 views 77138 131039101974208 File content read, size: 213327 bytes
+INFO 2025-03-25 08:43:21,404 views 77138 131039101974208 Processing PDF file
+INFO 2025-03-25 08:43:21,450 views 77138 131039101974208 Extracted text length: 4470
+INFO 2025-03-25 08:43:21,450 views 77138 131039101974208 First 100 characters: Online
+Gramin Dak
+Sevak
+Engagement
+Candidate Application Form
+Personal Details
+Registration
+Number25
+INFO 2025-03-25 08:43:21,451 views 77138 131039101974208 Parsing resume with LLM
+ERROR 2025-03-25 08:43:23,004 views 77138 131039101974208 Error processing resume: Error parsing resume: Expecting value: line 1 column 1 (char 0)
+WARNING 2025-03-25 08:43:23,004 log 77138 131039101974208 Bad Request: /api/candidates/upload_resume/
+INFO 2025-03-25 08:45:42,756 autoreload 77138 131039275533760 /media/h-57/NewVolume1/coding/sys-tri/resume_matcher/matcher/services.py changed, reloading.
+INFO 2025-03-25 08:45:45,559 autoreload 77970 129301068985792 Watching for file changes with StatReloader
+INFO 2025-03-25 08:46:17,440 views 77970 129300895364800 Starting resume upload process
+INFO 2025-03-25 08:46:17,442 views 77970 129300895364800 Request FILES: <MultiValueDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf (application/pdf)>]}>
+INFO 2025-03-25 08:46:17,442 views 77970 129300895364800 Request data: <QueryDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf (application/pdf)>]}>
+INFO 2025-03-25 08:46:17,442 views 77970 129300895364800 File received: Tarun Kumar resume-1-1.pdf, size: 83527, content_type: application/pdf
+INFO 2025-03-25 08:46:17,442 views 77970 129300895364800 File content read, size: 83527 bytes
+INFO 2025-03-25 08:46:17,443 views 77970 129300895364800 Processing PDF file
+INFO 2025-03-25 08:46:17,507 views 77970 129300895364800 Extracted text length: 2706
+INFO 2025-03-25 08:46:17,508 views 77970 129300895364800 First 100 characters: Tarun
+Kumar
+Rohtak,
+Haryana
+|
+tarunkumar8059@gmail.com
+|
++91
+8307753758
+LinkedIn
+|
+GitHub
+|
+Portfoli
+INFO 2025-03-25 08:46:17,508 views 77970 129300895364800 Parsing resume with LLM
+ERROR 2025-03-25 08:46:23,792 views 77970 129300895364800 Error processing resume: Error parsing resume: Expecting value: line 1 column 1 (char 0)
+WARNING 2025-03-25 08:46:23,793 log 77970 129300895364800 Bad Request: /api/candidates/upload_resume/
+INFO 2025-03-25 08:48:19,898 autoreload 77970 129301068985792 /media/h-57/NewVolume1/coding/sys-tri/resume_matcher/matcher/services.py changed, reloading.
+INFO 2025-03-25 08:48:38,171 autoreload 78959 130571441636800 Watching for file changes with StatReloader
+INFO 2025-03-25 12:12:32,239 views 78959 130571267208896 Starting resume upload process
+INFO 2025-03-25 12:12:32,250 views 78959 130571267208896 Request FILES: <MultiValueDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf (application/pdf)>]}>
+INFO 2025-03-25 12:12:32,251 views 78959 130571267208896 Request data: <QueryDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf (application/pdf)>]}>
+INFO 2025-03-25 12:12:32,252 views 78959 130571267208896 File received: Tarun Kumar resume-1-1.pdf, size: 83527, content_type: application/pdf
+INFO 2025-03-25 12:12:32,252 views 78959 130571267208896 File content read, size: 83527 bytes
+INFO 2025-03-25 12:12:32,252 views 78959 130571267208896 Processing PDF file
+INFO 2025-03-25 12:12:32,419 views 78959 130571267208896 Extracted text length: 2706
+INFO 2025-03-25 12:12:32,421 views 78959 130571267208896 First 100 characters: Tarun
+Kumar
+Rohtak,
+Haryana
+|
+tarunkumar8059@gmail.com
+|
++91
+8307753758
+LinkedIn
+|
+GitHub
+|
+Portfoli
+INFO 2025-03-25 12:12:32,423 views 78959 130571267208896 Parsing resume with LLM
+INFO 2025-03-25 12:12:37,789 views 78959 130571267208896 Parsed data: {'name': 'Tarun Kumar', 'skills': ['JavaScript', 'React JS', 'Redux/Redux Toolkit', 'Next.js', 'TypeScript', 'React Native', 'Tailwind', 'Node.js', 'Express.js', 'Git/GitHub', 'Docker', 'AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)', 'linux', 'MongoDB', 'Mysql', 'Mongodb aggregation pipeline', 'redis', 'Socket.io', 'Firebase', 'BullMQ', 'MSG91', 'Augmont', 'HTML', 'MVC'], 'education': [{'degree': 'Bachelor of Computer Application', 'institution': None, 'year': '2021–2023'}], 'work_experience': [{'company': 'Triangle Syscom', 'position': 'Back End Developer (intern)', 'duration': 'Oct 2023 - Mar 2024', 'description': "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."}, {'company': 'Freelancing', 'position': 'Backend developer', 'duration': 'Mar 2024 - June 2024', 'description': 'Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis.'}, {'company': 'Rooba finance', 'position': 'Full stack Developer', 'duration': 'Apr 2024 - Present', 'description': 'Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage.'}]}
+INFO 2025-03-25 12:12:37,790 views 78959 130571267208896 Creating candidate profile
+INFO 2025-03-25 12:12:37,814 views 78959 130571267208896 Candidate profile created successfully
+WARNING 2025-03-25 12:13:26,838 log 78959 130571267208896 Not Found: /
+WARNING 2025-03-25 12:13:26,954 log 78959 130571267208896 Not Found: /favicon.ico
+INFO 2025-03-25 12:21:36,480 autoreload 112334 138518687684032 Watching for file changes with StatReloader
+INFO 2025-03-25 12:21:40,912 autoreload 112388 137201184712128 Watching for file changes with StatReloader
+INFO 2025-03-26 05:52:01,189 autoreload 132341 136058180597184 Watching for file changes with StatReloader
+WARNING 2025-03-26 05:53:19,633 log 132341 136058007189184 Bad Request: /api/matches/match_candidate/
+WARNING 2025-03-26 05:53:23,153 log 132341 136058007189184 Bad Request: /api/matches/match_candidate/
+INFO 2025-03-26 05:54:40,134 autoreload 133919 138372286207424 Watching for file changes with StatReloader
+INFO 2025-03-26 05:55:43,481 views 133919 138372179818176 Starting resume upload process
+INFO 2025-03-26 05:55:43,483 views 133919 138372179818176 Request files: <MultiValueDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf ()>]}>
+INFO 2025-03-26 05:55:43,483 views 133919 138372179818176 Request data: <QueryDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf ()>]}>
+INFO 2025-03-26 05:55:43,484 views 133919 138372179818176 Received file: Tarun Kumar resume-1-1.pdf, size: 83527 bytes
+INFO 2025-03-26 05:55:43,484 views 133919 138372179818176 Read 83527 bytes from file
+INFO 2025-03-26 05:55:43,605 views 133919 138372179818176 Extracted text length: 2706 characters
+INFO 2025-03-26 05:55:49,813 views 133919 138372179818176 Successfully parsed resume data: {
+  "name": "Tarun Kumar",
+  "skills": [
+    "JavaScript",
+    "React JS",
+    "Redux",
+    "Redux Toolkit",
+    "Next.js",
+    "TypeScript",
+    "React Native",
+    "Tailwind",
+    "Node.js",
+    "Express.js",
+    "Git",
+    "GitHub",
+    "Docker",
+    "AWS",
+    "code pipeline",
+    "ec2",
+    "s3",
+    "eventbridge",
+    "sns",
+    "Linux",
+    "MongoDB",
+    "Mysql",
+    "Mongodb aggregation pipeline",
+    "redis",
+    "Socket.io",
+    "Firebase",
+    "BullMQ",
+    "MSG91",
+    "Augmont",
+    "MVC",
+    "HTML",
+    "React Redux"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Application",
+      "institution": null,
+      "year": "2021\u20132023"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Triangle Syscom",
+      "position": "Back End Developer (intern)",
+      "duration": "Oct 2023 - Mar 2024",
+      "description": "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."
+    },
+    {
+      "company": "Freelancing",
+      "position": "Backend developer",
+      "duration": "Mar 2024 - June 2024",
+      "description": "Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis."
+    },
+    {
+      "company": "Rooba finance",
+      "position": "Full stack Developer",
+      "duration": "Apr 2024 - Present",
+      "description": "Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage."
+    }
+  ]
+}
+INFO 2025-03-26 05:55:49,829 views 133919 138372179818176 Successfully created candidate profile: {'id': 6, 'name': 'Tarun Kumar', 'skills': ['JavaScript', 'React JS', 'Redux', 'Redux Toolkit', 'Next.js', 'TypeScript', 'React Native', 'Tailwind', 'Node.js', 'Express.js', 'Git', 'GitHub', 'Docker', 'AWS', 'code pipeline', 'ec2', 's3', 'eventbridge', 'sns', 'Linux', 'MongoDB', 'Mysql', 'Mongodb aggregation pipeline', 'redis', 'Socket.io', 'Firebase', 'BullMQ', 'MSG91', 'Augmont', 'MVC', 'HTML', 'React Redux'], 'education': [{'degree': 'Bachelor of Computer Application', 'institution': None, 'year': '2021–2023'}], 'work_experience': [{'company': 'Triangle Syscom', 'position': 'Back End Developer (intern)', 'duration': 'Oct 2023 - Mar 2024', 'description': "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."}, {'company': 'Freelancing', 'position': 'Backend developer', 'duration': 'Mar 2024 - June 2024', 'description': 'Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis.'}, {'company': 'Rooba finance', 'position': 'Full stack Developer', 'duration': 'Apr 2024 - Present', 'description': 'Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage.'}]}
+INFO 2025-03-26 05:56:01,324 views 133919 138372179818176 Starting candidate matching process
+INFO 2025-03-26 05:56:01,325 views 133919 138372179818176 Request data: {'candidate_id': 6, 'job_id': 1}
+INFO 2025-03-26 05:56:01,325 views 133919 138372179818176 Looking up candidate 6 and job 1
+INFO 2025-03-26 05:56:01,331 views 133919 138372179818176 Getting match results from LLM
+ERROR 2025-03-26 05:56:03,033 views 133919 138372179818176 Error in match_candidate: Error matching candidate to job: Expecting value: line 1 column 1 (char 0)
+WARNING 2025-03-26 05:56:03,034 log 133919 138372179818176 Bad Request: /api/matches/match_candidate/
+INFO 2025-03-26 05:56:17,439 views 133919 138372179818176 Starting candidate matching process
+INFO 2025-03-26 05:56:17,440 views 133919 138372179818176 Request data: {'candidate_id': 6, 'job_id': 1}
+INFO 2025-03-26 05:56:17,442 views 133919 138372179818176 Looking up candidate 6 and job 1
+INFO 2025-03-26 05:56:17,448 views 133919 138372179818176 Getting match results from LLM
+ERROR 2025-03-26 05:56:18,999 views 133919 138372179818176 Error in match_candidate: Error matching candidate to job: Expecting value: line 1 column 1 (char 0)
+WARNING 2025-03-26 05:56:19,000 log 133919 138372179818176 Bad Request: /api/matches/match_candidate/
+INFO 2025-03-26 05:57:15,247 autoreload 133919 138372286207424 /media/h-57/NewVolume1/coding/sys-tri/resume_matcher/matcher/services.py changed, reloading.
+INFO 2025-03-26 05:57:22,920 autoreload 135534 136241904514496 Watching for file changes with StatReloader
+INFO 2025-03-26 05:57:32,528 views 135534 136241730287296 Starting candidate matching process
+INFO 2025-03-26 05:57:32,529 views 135534 136241730287296 Request data: {'candidate_id': 6, 'job_id': 1}
+INFO 2025-03-26 05:57:32,530 views 135534 136241730287296 Looking up candidate 6 and job 1
+INFO 2025-03-26 05:57:32,538 views 135534 136241730287296 Getting match results from LLM
+INFO 2025-03-26 05:57:35,697 views 135534 136241730287296 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Redux, Next.js, and TypeScript, exceeding the job requirements.  Their experience with backend technologies like Node.js and Express.js, and familiarity with AWS and other cloud services, demonstrates a well-rounded skillset."
+}
+INFO 2025-03-26 05:57:35,697 views 135534 136241730287296 Creating job match with data: {
+  "candidate": 6,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Redux, Next.js, and TypeScript, exceeding the job requirements.  Their experience with backend technologies like Node.js and Express.js, and familiarity with AWS and other cloud services, demonstrates a well-rounded skillset."
+}
+INFO 2025-03-26 05:57:35,711 views 135534 136241730287296 Successfully created job match: {
+  "id": 1,
+  "candidate": 6,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Redux, Next.js, and TypeScript, exceeding the job requirements.  Their experience with backend technologies like Node.js and Express.js, and familiarity with AWS and other cloud services, demonstrates a well-rounded skillset."
+}
+INFO 2025-03-26 05:58:20,720 views 135534 136241730287296 Starting candidate matching process
+INFO 2025-03-26 05:58:20,721 views 135534 136241730287296 Request data: {'candidate_id': 6, 'job_id': 2}
+INFO 2025-03-26 05:58:20,722 views 135534 136241730287296 Looking up candidate 6 and job 2
+INFO 2025-03-26 05:58:20,726 views 135534 136241730287296 Getting match results from LLM
+INFO 2025-03-26 05:58:22,047 views 135534 136241730287296 Match results: {
+  "match_score": 0,
+  "missing_skills": [
+    "dsc",
+    "sdc"
+  ],
+  "summary": "The candidate's skills and experience are not relevant to the job requirements.  The candidate possesses extensive skills in frontend and backend development, cloud technologies (AWS), and databases, but none of these match the required skills 'dsc' and 'sdc'."
+}
+INFO 2025-03-26 05:58:22,048 views 135534 136241730287296 Creating job match with data: {
+  "candidate": 6,
+  "job": 2,
+  "match_score": 0,
+  "missing_skills": [
+    "dsc",
+    "sdc"
+  ],
+  "summary": "The candidate's skills and experience are not relevant to the job requirements.  The candidate possesses extensive skills in frontend and backend development, cloud technologies (AWS), and databases, but none of these match the required skills 'dsc' and 'sdc'."
+}
+INFO 2025-03-26 05:58:22,060 views 135534 136241730287296 Successfully created job match: {
+  "id": 2,
+  "candidate": 6,
+  "job": 2,
+  "match_score": 0,
+  "missing_skills": [
+    "dsc",
+    "sdc"
+  ],
+  "summary": "The candidate's skills and experience are not relevant to the job requirements.  The candidate possesses extensive skills in frontend and backend development, cloud technologies (AWS), and databases, but none of these match the required skills 'dsc' and 'sdc'."
+}
+WARNING 2025-03-26 05:59:40,435 log 135534 136241730287296 Not Found: /favicon.ico
+INFO 2025-03-26 06:00:30,403 views 135534 136241546761920 Starting resume upload process
+INFO 2025-03-26 06:00:30,405 views 135534 136241546761920 Request files: <MultiValueDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1.pdf ()>]}>
+INFO 2025-03-26 06:00:30,406 views 135534 136241546761920 Request data: <QueryDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1.pdf ()>]}>
+INFO 2025-03-26 06:00:30,406 views 135534 136241546761920 Received file: Tarun Kumar resume-1.pdf, size: 83527 bytes
+INFO 2025-03-26 06:00:30,407 views 135534 136241546761920 Read 83527 bytes from file
+INFO 2025-03-26 06:00:30,534 views 135534 136241546761920 Extracted text length: 2706 characters
+INFO 2025-03-26 06:00:35,512 views 135534 136241546761920 Successfully parsed resume data: {
+  "name": "Tarun Kumar",
+  "skills": [
+    "JavaScript",
+    "React JS",
+    "Redux/Redux Toolkit",
+    "Next.js",
+    "TypeScript",
+    "React Native",
+    "Tailwind",
+    "Node.js",
+    "Express.js",
+    "Git/GitHub",
+    "Docker",
+    "AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)",
+    "Linux",
+    "MongoDB",
+    "MySQL",
+    "Mongodb aggregation pipeline",
+    "Redis",
+    "Socket.io",
+    "Firebase",
+    "BullMQ",
+    "MSG91",
+    "Augmont",
+    "JWT",
+    "MVC",
+    "HTML"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Application",
+      "institution": null,
+      "year": "2021\u20132023"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Triangle Syscom",
+      "position": "Back End Developer (intern)",
+      "duration": "Oct 2023 - Mar 2024",
+      "description": "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."
+    },
+    {
+      "company": "Freelancing",
+      "position": "Backend developer",
+      "duration": "Mar 2024 - June 2024",
+      "description": "Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis."
+    },
+    {
+      "company": "Rooba finance",
+      "position": "Full stack Developer",
+      "duration": "Apr 2024 - Present",
+      "description": "Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage."
+    }
+  ]
+}
+INFO 2025-03-26 06:00:35,526 views 135534 136241546761920 Successfully created candidate profile: {'id': 7, 'name': 'Tarun Kumar', 'skills': ['JavaScript', 'React JS', 'Redux/Redux Toolkit', 'Next.js', 'TypeScript', 'React Native', 'Tailwind', 'Node.js', 'Express.js', 'Git/GitHub', 'Docker', 'AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)', 'Linux', 'MongoDB', 'MySQL', 'Mongodb aggregation pipeline', 'Redis', 'Socket.io', 'Firebase', 'BullMQ', 'MSG91', 'Augmont', 'JWT', 'MVC', 'HTML'], 'education': [{'degree': 'Bachelor of Computer Application', 'institution': None, 'year': '2021–2023'}], 'work_experience': [{'company': 'Triangle Syscom', 'position': 'Back End Developer (intern)', 'duration': 'Oct 2023 - Mar 2024', 'description': "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."}, {'company': 'Freelancing', 'position': 'Backend developer', 'duration': 'Mar 2024 - June 2024', 'description': 'Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis.'}, {'company': 'Rooba finance', 'position': 'Full stack Developer', 'duration': 'Apr 2024 - Present', 'description': 'Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage.'}]}
+INFO 2025-03-26 06:03:49,673 views 135534 136241546761920 Starting resume upload process
+INFO 2025-03-26 06:03:49,677 views 135534 136241546761920 Request files: <MultiValueDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf ()>]}>
+INFO 2025-03-26 06:03:49,677 views 135534 136241546761920 Request data: <QueryDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf ()>]}>
+INFO 2025-03-26 06:03:49,678 views 135534 136241546761920 Received file: Tarun Kumar resume-1-1.pdf, size: 83527 bytes
+INFO 2025-03-26 06:03:49,678 views 135534 136241546761920 Read 83527 bytes from file
+INFO 2025-03-26 06:03:49,872 views 135534 136241546761920 Extracted text length: 2706 characters
+INFO 2025-03-26 06:03:54,803 views 135534 136241546761920 Successfully parsed resume data: {
+  "name": "Tarun Kumar",
+  "skills": [
+    "JavaScript",
+    "React JS",
+    "Redux/Redux Toolkit",
+    "Next.js",
+    "TypeScript",
+    "React Native",
+    "Tailwind",
+    "Node.js",
+    "Express.js",
+    "Git/GitHub",
+    "Docker",
+    "AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)",
+    "Linux",
+    "MongoDB",
+    "MySQL",
+    "MongoDB aggregation pipeline",
+    "Redis",
+    "Socket.io",
+    "Firebase",
+    "BullMQ",
+    "MSG91",
+    "Augmont",
+    "HTML",
+    "React Redux",
+    "MVC"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Application",
+      "institution": null,
+      "year": "2021\u20132023"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Triangle Syscom",
+      "position": "Back End Developer (intern)",
+      "duration": "Oct 2023 - Mar 2024",
+      "description": "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."
+    },
+    {
+      "company": "Freelancing",
+      "position": "Backend developer",
+      "duration": "Mar 2024 - June 2024",
+      "description": "Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis."
+    },
+    {
+      "company": "Rooba finance",
+      "position": "Full stack Developer",
+      "duration": "Apr 2024 - Present",
+      "description": "Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage."
+    }
+  ]
+}
+INFO 2025-03-26 06:03:54,818 views 135534 136241546761920 Successfully created candidate profile: {'id': 8, 'name': 'Tarun Kumar', 'skills': ['JavaScript', 'React JS', 'Redux/Redux Toolkit', 'Next.js', 'TypeScript', 'React Native', 'Tailwind', 'Node.js', 'Express.js', 'Git/GitHub', 'Docker', 'AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)', 'Linux', 'MongoDB', 'MySQL', 'MongoDB aggregation pipeline', 'Redis', 'Socket.io', 'Firebase', 'BullMQ', 'MSG91', 'Augmont', 'HTML', 'React Redux', 'MVC'], 'education': [{'degree': 'Bachelor of Computer Application', 'institution': None, 'year': '2021–2023'}], 'work_experience': [{'company': 'Triangle Syscom', 'position': 'Back End Developer (intern)', 'duration': 'Oct 2023 - Mar 2024', 'description': "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."}, {'company': 'Freelancing', 'position': 'Backend developer', 'duration': 'Mar 2024 - June 2024', 'description': 'Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis.'}, {'company': 'Rooba finance', 'position': 'Full stack Developer', 'duration': 'Apr 2024 - Present', 'description': 'Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage.'}]}
+INFO 2025-03-26 06:04:30,414 views 135534 136241546761920 Starting resume upload process
+INFO 2025-03-26 06:04:30,416 views 135534 136241546761920 Request files: <MultiValueDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf ()>]}>
+INFO 2025-03-26 06:04:30,416 views 135534 136241546761920 Request data: <QueryDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf ()>]}>
+INFO 2025-03-26 06:04:30,417 views 135534 136241546761920 Received file: Tarun Kumar resume-1-1.pdf, size: 83527 bytes
+INFO 2025-03-26 06:04:30,417 views 135534 136241546761920 Read 83527 bytes from file
+INFO 2025-03-26 06:04:30,545 views 135534 136241546761920 Extracted text length: 2706 characters
+INFO 2025-03-26 06:04:35,454 views 135534 136241546761920 Successfully parsed resume data: {
+  "name": "Tarun Kumar",
+  "skills": [
+    "JavaScript",
+    "React JS",
+    "Redux/Redux Toolkit",
+    "Next.js",
+    "TypeScript",
+    "React Native",
+    "Tailwind",
+    "Node.js",
+    "Express.js",
+    "Git/GitHub",
+    "Docker",
+    "AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)",
+    "Linux",
+    "MongoDB",
+    "MySQL",
+    "MongoDB aggregation pipeline",
+    "Redis",
+    "Socket.io",
+    "Firebase",
+    "BullMQ",
+    "MSG91",
+    "Augmont",
+    "JWT",
+    "MVC",
+    "HTML"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Application",
+      "institution": null,
+      "year": "2021\u20132023"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Triangle Syscom",
+      "position": "Back End Developer (intern)",
+      "duration": "Oct 2023 - Mar 2024",
+      "description": "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."
+    },
+    {
+      "company": "Freelancing",
+      "position": "Backend developer",
+      "duration": "Mar 2024 - June 2024",
+      "description": "Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis."
+    },
+    {
+      "company": "Rooba finance",
+      "position": "Full stack Developer",
+      "duration": "Apr 2024 - Present",
+      "description": "Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage."
+    }
+  ]
+}
+INFO 2025-03-26 06:04:35,465 views 135534 136241546761920 Successfully created candidate profile: {'id': 9, 'name': 'Tarun Kumar', 'skills': ['JavaScript', 'React JS', 'Redux/Redux Toolkit', 'Next.js', 'TypeScript', 'React Native', 'Tailwind', 'Node.js', 'Express.js', 'Git/GitHub', 'Docker', 'AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)', 'Linux', 'MongoDB', 'MySQL', 'MongoDB aggregation pipeline', 'Redis', 'Socket.io', 'Firebase', 'BullMQ', 'MSG91', 'Augmont', 'JWT', 'MVC', 'HTML'], 'education': [{'degree': 'Bachelor of Computer Application', 'institution': None, 'year': '2021–2023'}], 'work_experience': [{'company': 'Triangle Syscom', 'position': 'Back End Developer (intern)', 'duration': 'Oct 2023 - Mar 2024', 'description': "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."}, {'company': 'Freelancing', 'position': 'Backend developer', 'duration': 'Mar 2024 - June 2024', 'description': 'Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis.'}, {'company': 'Rooba finance', 'position': 'Full stack Developer', 'duration': 'Apr 2024 - Present', 'description': 'Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage.'}]}
+INFO 2025-03-26 06:07:14,547 views 135534 136241546761920 Starting candidate matching process
+INFO 2025-03-26 06:07:14,549 views 135534 136241546761920 Request data: {'candidate_id': 9, 'job_id': 2}
+INFO 2025-03-26 06:07:14,549 views 135534 136241546761920 Looking up candidate 9 and job 2
+INFO 2025-03-26 06:07:14,555 views 135534 136241546761920 Getting match results from LLM
+INFO 2025-03-26 06:07:15,914 views 135534 136241546761920 Match results: {
+  "match_score": 0,
+  "missing_skills": [
+    "dsc",
+    "sdc"
+  ],
+  "summary": "The candidate's profile demonstrates strong skills in frontend and backend development using various technologies, including React, Node.js, MongoDB, and AWS.  However, the candidate lacks the required skills 'dsc' and 'sdc' specified in the job posting."
+}
+INFO 2025-03-26 06:07:15,915 views 135534 136241546761920 Creating job match with data: {
+  "candidate": 9,
+  "job": 2,
+  "match_score": 0,
+  "missing_skills": [
+    "dsc",
+    "sdc"
+  ],
+  "summary": "The candidate's profile demonstrates strong skills in frontend and backend development using various technologies, including React, Node.js, MongoDB, and AWS.  However, the candidate lacks the required skills 'dsc' and 'sdc' specified in the job posting."
+}
+INFO 2025-03-26 06:07:15,930 views 135534 136241546761920 Successfully created job match: {
+  "id": 3,
+  "candidate": 9,
+  "job": 2,
+  "match_score": 0,
+  "missing_skills": [
+    "dsc",
+    "sdc"
+  ],
+  "summary": "The candidate's profile demonstrates strong skills in frontend and backend development using various technologies, including React, Node.js, MongoDB, and AWS.  However, the candidate lacks the required skills 'dsc' and 'sdc' specified in the job posting."
+}
+INFO 2025-03-26 06:07:22,422 views 135534 136241546761920 Starting candidate matching process
+INFO 2025-03-26 06:07:22,424 views 135534 136241546761920 Request data: {'candidate_id': 9, 'job_id': 2}
+INFO 2025-03-26 06:07:22,425 views 135534 136241546761920 Looking up candidate 9 and job 2
+INFO 2025-03-26 06:07:22,430 views 135534 136241546761920 Getting match results from LLM
+INFO 2025-03-26 06:07:23,700 views 135534 136241546761920 Match results: {
+  "match_score": 0,
+  "missing_skills": [
+    "dsc",
+    "sdc"
+  ],
+  "summary": "The candidate's profile demonstrates strong full-stack development skills with a focus on MERN stack technologies and AWS services.  However, the candidate lacks the required skills 'dsc' and 'sdc' specified in the job posting."
+}
+INFO 2025-03-26 06:07:23,701 views 135534 136241546761920 Creating job match with data: {
+  "candidate": 9,
+  "job": 2,
+  "match_score": 0,
+  "missing_skills": [
+    "dsc",
+    "sdc"
+  ],
+  "summary": "The candidate's profile demonstrates strong full-stack development skills with a focus on MERN stack technologies and AWS services.  However, the candidate lacks the required skills 'dsc' and 'sdc' specified in the job posting."
+}
+INFO 2025-03-26 06:07:23,715 views 135534 136241546761920 Successfully created job match: {
+  "id": 4,
+  "candidate": 9,
+  "job": 2,
+  "match_score": 0,
+  "missing_skills": [
+    "dsc",
+    "sdc"
+  ],
+  "summary": "The candidate's profile demonstrates strong full-stack development skills with a focus on MERN stack technologies and AWS services.  However, the candidate lacks the required skills 'dsc' and 'sdc' specified in the job posting."
+}
+INFO 2025-03-26 06:07:32,423 views 135534 136241546761920 Starting candidate matching process
+INFO 2025-03-26 06:07:32,424 views 135534 136241546761920 Request data: {'candidate_id': 9, 'job_id': 1}
+INFO 2025-03-26 06:07:32,424 views 135534 136241546761920 Looking up candidate 9 and job 1
+INFO 2025-03-26 06:07:32,429 views 135534 136241546761920 Getting match results from LLM
+INFO 2025-03-26 06:07:33,939 views 135534 136241546761920 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux/Redux Toolkit, and TypeScript, all of which strongly align with the job requirements.  Their experience also encompasses a wide range of backend technologies and demonstrates proficiency in building and deploying applications. The candidate's work experience showcases practical application of React and related technologies in several projects. While the job description focuses solely on frontend development, the candidate's full-stack capabilities could be an asset."
+}
+INFO 2025-03-26 06:07:33,940 views 135534 136241546761920 Creating job match with data: {
+  "candidate": 9,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux/Redux Toolkit, and TypeScript, all of which strongly align with the job requirements.  Their experience also encompasses a wide range of backend technologies and demonstrates proficiency in building and deploying applications. The candidate's work experience showcases practical application of React and related technologies in several projects. While the job description focuses solely on frontend development, the candidate's full-stack capabilities could be an asset."
+}
+INFO 2025-03-26 06:07:33,954 views 135534 136241546761920 Successfully created job match: {
+  "id": 5,
+  "candidate": 9,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux/Redux Toolkit, and TypeScript, all of which strongly align with the job requirements.  Their experience also encompasses a wide range of backend technologies and demonstrates proficiency in building and deploying applications. The candidate's work experience showcases practical application of React and related technologies in several projects. While the job description focuses solely on frontend development, the candidate's full-stack capabilities could be an asset."
+}
+WARNING 2025-03-26 06:08:25,995 log 135534 136241546761920 Not Found: /favicon.ico
+INFO 2025-03-26 06:08:44,134 views 135534 136241546761920 Starting candidate matching process
+INFO 2025-03-26 06:08:44,135 views 135534 136241546761920 Request data: {'candidate_id': 9, 'job_id': 1}
+INFO 2025-03-26 06:08:44,135 views 135534 136241546761920 Looking up candidate 9 and job 1
+INFO 2025-03-26 06:08:44,141 views 135534 136241546761920 Getting match results from LLM
+INFO 2025-03-26 06:08:45,723 views 135534 136241546761920 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux/Redux Toolkit, and TypeScript, exceeding the minimum requirements.  Their experience also encompasses backend development (Node.js, Express.js) and database technologies (MongoDB, MySQL, Redis), along with cloud platforms (AWS) and DevOps tools (Docker, Git/GitHub). While the job description focuses on frontend, the candidate's well-rounded skillset adds value."
+}
+INFO 2025-03-26 06:08:45,724 views 135534 136241546761920 Creating job match with data: {
+  "candidate": 9,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux/Redux Toolkit, and TypeScript, exceeding the minimum requirements.  Their experience also encompasses backend development (Node.js, Express.js) and database technologies (MongoDB, MySQL, Redis), along with cloud platforms (AWS) and DevOps tools (Docker, Git/GitHub). While the job description focuses on frontend, the candidate's well-rounded skillset adds value."
+}
+INFO 2025-03-26 06:08:45,737 views 135534 136241546761920 Successfully created job match: {
+  "id": 6,
+  "candidate": 9,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux/Redux Toolkit, and TypeScript, exceeding the minimum requirements.  Their experience also encompasses backend development (Node.js, Express.js) and database technologies (MongoDB, MySQL, Redis), along with cloud platforms (AWS) and DevOps tools (Docker, Git/GitHub). While the job description focuses on frontend, the candidate's well-rounded skillset adds value."
+}
+WARNING 2025-03-26 06:08:49,051 log 135534 136241546761920 Not Found: /favicon.ico
+INFO 2025-03-26 06:10:05,147 autoreload 135534 136241904514496 /media/h-57/NewVolume1/coding/sys-tri/resume_matcher/matcher/services.py changed, reloading.
+INFO 2025-03-26 06:10:17,988 autoreload 139449 135418919458240 Watching for file changes with StatReloader
+INFO 2025-03-26 06:11:07,725 autoreload 139999 129425805616576 Watching for file changes with StatReloader
+INFO 2025-03-26 06:11:42,785 views 139999 129425631868608 Starting resume upload process
+INFO 2025-03-26 06:11:42,787 views 139999 129425631868608 Request files: <MultiValueDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf ()>]}>
+INFO 2025-03-26 06:11:42,788 views 139999 129425631868608 Request data: <QueryDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf ()>]}>
+INFO 2025-03-26 06:11:42,788 views 139999 129425631868608 Received file: Tarun Kumar resume-1-1.pdf, size: 83527 bytes
+INFO 2025-03-26 06:11:42,789 views 139999 129425631868608 Read 83527 bytes from file
+INFO 2025-03-26 06:11:42,921 views 139999 129425631868608 Extracted text length: 2706 characters
+INFO 2025-03-26 06:11:49,539 views 139999 129425631868608 Successfully parsed resume data: {
+  "name": "Tarun Kumar",
+  "skills": [
+    "JavaScript",
+    "React JS",
+    "Redux/Redux Toolkit",
+    "Next.js",
+    "TypeScript",
+    "React Native",
+    "Tailwind",
+    "Node.js",
+    "Express.js",
+    "Git/GitHub",
+    "Docker",
+    "AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)",
+    "linux",
+    "MongoDB",
+    "Mysql",
+    "Mongodb aggregation pipeline",
+    "redis",
+    "Socket.io",
+    "Firebase",
+    "BullMQ",
+    "MSG91",
+    "Augmont",
+    "MVC",
+    "HTML",
+    "React Redux"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Application",
+      "institution": null,
+      "year": "2021\u20132023"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Triangle Syscom",
+      "position": "Back End Developer (intern)",
+      "duration": "Oct 2023 - Mar 2024",
+      "description": "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."
+    },
+    {
+      "company": "Freelancing",
+      "position": "Backend developer",
+      "duration": "Mar 2024 - June 2024",
+      "description": "Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis."
+    },
+    {
+      "company": "Rooba finance",
+      "position": "Full stack Developer",
+      "duration": "Apr 2024 - Present",
+      "description": "Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage."
+    }
+  ]
+}
+INFO 2025-03-26 06:11:49,552 views 139999 129425631868608 Successfully created candidate profile: {'id': 10, 'name': 'Tarun Kumar', 'skills': ['JavaScript', 'React JS', 'Redux/Redux Toolkit', 'Next.js', 'TypeScript', 'React Native', 'Tailwind', 'Node.js', 'Express.js', 'Git/GitHub', 'Docker', 'AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)', 'linux', 'MongoDB', 'Mysql', 'Mongodb aggregation pipeline', 'redis', 'Socket.io', 'Firebase', 'BullMQ', 'MSG91', 'Augmont', 'MVC', 'HTML', 'React Redux'], 'education': [{'degree': 'Bachelor of Computer Application', 'institution': None, 'year': '2021–2023'}], 'work_experience': [{'company': 'Triangle Syscom', 'position': 'Back End Developer (intern)', 'duration': 'Oct 2023 - Mar 2024', 'description': "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."}, {'company': 'Freelancing', 'position': 'Backend developer', 'duration': 'Mar 2024 - June 2024', 'description': 'Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis.'}, {'company': 'Rooba finance', 'position': 'Full stack Developer', 'duration': 'Apr 2024 - Present', 'description': 'Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage.'}]}
+INFO 2025-03-26 06:12:00,816 views 139999 129425631868608 Starting candidate matching process
+INFO 2025-03-26 06:12:00,817 views 139999 129425631868608 Request data: {'candidate_id': 10, 'job_id': 1}
+INFO 2025-03-26 06:12:00,817 views 139999 129425631868608 Looking up candidate 10 and job 1
+INFO 2025-03-26 06:12:00,822 views 139999 129425631868608 Getting match results from LLM
+INFO 2025-03-26 06:12:02,268 views 139999 129425631868608 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the job requirements.  Their experience with various backend technologies and frameworks demonstrates a full-stack capability.  The candidate's work history showcases strong project experience, with quantifiable results.  While the job description focuses on frontend, the candidate's additional skills are a significant asset."
+}
+INFO 2025-03-26 06:12:02,269 views 139999 129425631868608 Creating job match with data: {
+  "candidate": 10,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the job requirements.  Their experience with various backend technologies and frameworks demonstrates a full-stack capability.  The candidate's work history showcases strong project experience, with quantifiable results.  While the job description focuses on frontend, the candidate's additional skills are a significant asset."
+}
+INFO 2025-03-26 06:12:02,286 views 139999 129425631868608 Successfully created job match: {
+  "id": 7,
+  "candidate": 10,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the job requirements.  Their experience with various backend technologies and frameworks demonstrates a full-stack capability.  The candidate's work history showcases strong project experience, with quantifiable results.  While the job description focuses on frontend, the candidate's additional skills are a significant asset."
+}
+INFO 2025-03-26 06:12:17,371 views 139999 129425631868608 Starting candidate matching process
+INFO 2025-03-26 06:12:17,372 views 139999 129425631868608 Request data: {'candidate_id': 10, 'job_id': 1}
+INFO 2025-03-26 06:12:17,372 views 139999 129425631868608 Looking up candidate 10 and job 1
+INFO 2025-03-26 06:12:17,380 views 139999 129425631868608 Getting match results from LLM
+INFO 2025-03-26 06:12:18,916 views 139999 129425631868608 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive experience in React, React Native, Next.js, Redux, and Javascript, exceeding the minimum requirements.  Their experience with backend technologies like Node.js, Express.js, and various databases is also a significant asset. The candidate's portfolio demonstrates practical application of these skills across multiple projects, including full-stack development."
+}
+INFO 2025-03-26 06:12:18,917 views 139999 129425631868608 Creating job match with data: {
+  "candidate": 10,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive experience in React, React Native, Next.js, Redux, and Javascript, exceeding the minimum requirements.  Their experience with backend technologies like Node.js, Express.js, and various databases is also a significant asset. The candidate's portfolio demonstrates practical application of these skills across multiple projects, including full-stack development."
+}
+INFO 2025-03-26 06:12:18,938 views 139999 129425631868608 Successfully created job match: {
+  "id": 8,
+  "candidate": 10,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive experience in React, React Native, Next.js, Redux, and Javascript, exceeding the minimum requirements.  Their experience with backend technologies like Node.js, Express.js, and various databases is also a significant asset. The candidate's portfolio demonstrates practical application of these skills across multiple projects, including full-stack development."
+}
+INFO 2025-03-26 06:13:39,703 views 139999 129425631868608 Starting resume upload process
+INFO 2025-03-26 06:13:39,705 views 139999 129425631868608 Request files: <MultiValueDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf ()>]}>
+INFO 2025-03-26 06:13:39,705 views 139999 129425631868608 Request data: <QueryDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf ()>]}>
+INFO 2025-03-26 06:13:39,706 views 139999 129425631868608 Received file: Tarun Kumar resume-1-1.pdf, size: 83527 bytes
+INFO 2025-03-26 06:13:39,706 views 139999 129425631868608 Read 83527 bytes from file
+INFO 2025-03-26 06:13:39,827 views 139999 129425631868608 Extracted text length: 2706 characters
+INFO 2025-03-26 06:13:44,612 views 139999 129425631868608 Successfully parsed resume data: {
+  "name": "Tarun Kumar",
+  "skills": [
+    "JavaScript",
+    "React JS",
+    "Redux/Redux Toolkit",
+    "Next.js",
+    "TypeScript",
+    "React Native",
+    "Tailwind",
+    "Node.js",
+    "Express.js",
+    "Git/GitHub",
+    "Docker",
+    "AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)",
+    "Linux",
+    "MongoDB",
+    "Mysql",
+    "Mongodb aggregation pipeline",
+    "redis",
+    "Socket.io",
+    "Firebase",
+    "BullMQ",
+    "MSG91",
+    "Augmont",
+    "MVC",
+    "HTML",
+    "React Redux"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Application",
+      "institution": null,
+      "year": "2021\u20132023"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Triangle Syscom",
+      "position": "Back End Developer (intern)",
+      "duration": "Oct 2023 - Mar 2024",
+      "description": "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."
+    },
+    {
+      "company": "Freelancing",
+      "position": "Backend developer",
+      "duration": "Mar 2024 - June 2024",
+      "description": "Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis."
+    },
+    {
+      "company": "Rooba finance",
+      "position": "Full stack Developer",
+      "duration": "Apr 2024 - Present",
+      "description": "Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage."
+    }
+  ]
+}
+INFO 2025-03-26 06:13:44,624 views 139999 129425631868608 Successfully created candidate profile: {'id': 11, 'name': 'Tarun Kumar', 'skills': ['JavaScript', 'React JS', 'Redux/Redux Toolkit', 'Next.js', 'TypeScript', 'React Native', 'Tailwind', 'Node.js', 'Express.js', 'Git/GitHub', 'Docker', 'AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)', 'Linux', 'MongoDB', 'Mysql', 'Mongodb aggregation pipeline', 'redis', 'Socket.io', 'Firebase', 'BullMQ', 'MSG91', 'Augmont', 'MVC', 'HTML', 'React Redux'], 'education': [{'degree': 'Bachelor of Computer Application', 'institution': None, 'year': '2021–2023'}], 'work_experience': [{'company': 'Triangle Syscom', 'position': 'Back End Developer (intern)', 'duration': 'Oct 2023 - Mar 2024', 'description': "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."}, {'company': 'Freelancing', 'position': 'Backend developer', 'duration': 'Mar 2024 - June 2024', 'description': 'Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis.'}, {'company': 'Rooba finance', 'position': 'Full stack Developer', 'duration': 'Apr 2024 - Present', 'description': 'Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage.'}]}
+INFO 2025-03-26 06:13:50,513 views 139999 129425631868608 Starting candidate matching process
+INFO 2025-03-26 06:13:50,513 views 139999 129425631868608 Request data: {'candidate_id': 11, 'job_id': 1}
+INFO 2025-03-26 06:13:50,514 views 139999 129425631868608 Looking up candidate 11 and job 1
+INFO 2025-03-26 06:13:50,521 views 139999 129425631868608 Getting match results from LLM
+INFO 2025-03-26 06:13:52,080 views 139999 129425631868608 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the job requirements.  Their experience with backend technologies like Node.js and Express.js, and database technologies like MongoDB and MySQL, demonstrates a well-rounded skillset.  The candidate's work history showcases successful project completion and a strong understanding of full-stack development principles.  While the job description only specifies frontend skills, the candidate's additional skills are valuable assets."
+}
+INFO 2025-03-26 06:13:52,080 views 139999 129425631868608 Creating job match with data: {
+  "candidate": 11,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the job requirements.  Their experience with backend technologies like Node.js and Express.js, and database technologies like MongoDB and MySQL, demonstrates a well-rounded skillset.  The candidate's work history showcases successful project completion and a strong understanding of full-stack development principles.  While the job description only specifies frontend skills, the candidate's additional skills are valuable assets."
+}
+INFO 2025-03-26 06:13:52,092 views 139999 129425631868608 Successfully created job match: {
+  "id": 9,
+  "candidate": 11,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the job requirements.  Their experience with backend technologies like Node.js and Express.js, and database technologies like MongoDB and MySQL, demonstrates a well-rounded skillset.  The candidate's work history showcases successful project completion and a strong understanding of full-stack development principles.  While the job description only specifies frontend skills, the candidate's additional skills are valuable assets."
+}
+INFO 2025-03-26 06:16:30,718 views 139999 129425631868608 Starting candidate matching process
+INFO 2025-03-26 06:16:30,722 views 139999 129425631868608 Request data: {'candidate_id': 11, 'job_id': 1}
+INFO 2025-03-26 06:16:30,722 views 139999 129425631868608 Looking up candidate 11 and job 1
+INFO 2025-03-26 06:16:30,728 views 139999 129425631868608 Getting match results from LLM
+INFO 2025-03-26 06:16:31,961 views 139999 129425631868608 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the minimum requirements.  Their experience with backend technologies like Node.js and Express.js, and experience with databases such as MongoDB and MySQL, demonstrates a well-rounded skillset."
+}
+INFO 2025-03-26 06:16:31,961 views 139999 129425631868608 Creating job match with data: {
+  "candidate": 11,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the minimum requirements.  Their experience with backend technologies like Node.js and Express.js, and experience with databases such as MongoDB and MySQL, demonstrates a well-rounded skillset."
+}
+INFO 2025-03-26 06:16:31,974 views 139999 129425631868608 Successfully created job match: {
+  "id": 10,
+  "candidate": 11,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the minimum requirements.  Their experience with backend technologies like Node.js and Express.js, and experience with databases such as MongoDB and MySQL, demonstrates a well-rounded skillset."
+}
+INFO 2025-03-26 06:16:35,933 views 139999 129425631868608 Starting candidate matching process
+INFO 2025-03-26 06:16:35,934 views 139999 129425631868608 Request data: {'candidate_id': 11, 'job_id': 1}
+INFO 2025-03-26 06:16:35,934 views 139999 129425631868608 Looking up candidate 11 and job 1
+INFO 2025-03-26 06:16:35,940 views 139999 129425631868608 Getting match results from LLM
+INFO 2025-03-26 06:16:37,443 views 139999 129425631868608 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the job requirements.  Their experience also demonstrates proficiency in backend technologies (Node.js, Express.js) and various databases. While the job description only specifies frontend skills, the candidate's full-stack capabilities could be a valuable asset."
+}
+INFO 2025-03-26 06:16:37,443 views 139999 129425631868608 Creating job match with data: {
+  "candidate": 11,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the job requirements.  Their experience also demonstrates proficiency in backend technologies (Node.js, Express.js) and various databases. While the job description only specifies frontend skills, the candidate's full-stack capabilities could be a valuable asset."
+}
+INFO 2025-03-26 06:16:37,459 views 139999 129425631868608 Successfully created job match: {
+  "id": 11,
+  "candidate": 11,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the job requirements.  Their experience also demonstrates proficiency in backend technologies (Node.js, Express.js) and various databases. While the job description only specifies frontend skills, the candidate's full-stack capabilities could be a valuable asset."
+}
+INFO 2025-03-26 06:16:48,170 views 139999 129425631868608 Starting candidate matching process
+INFO 2025-03-26 06:16:48,171 views 139999 129425631868608 Request data: {'candidate_id': 11, 'job_id': 1}
+INFO 2025-03-26 06:16:48,172 views 139999 129425631868608 Looking up candidate 11 and job 1
+INFO 2025-03-26 06:16:48,179 views 139999 129425631868608 Getting match results from LLM
+INFO 2025-03-26 06:16:49,648 views 139999 129425631868608 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive experience in React, React Native, Next.js, Redux, and JavaScript, exceeding the minimum requirements.  Their diverse skillset includes backend development using Node.js, Express.js, and various databases, as well as experience with AWS and DevOps tools.  The candidate's work history showcases a strong ability to build and deploy complex applications. While the job description focuses on frontend, the candidate's strong full-stack abilities could be an asset."
+}
+INFO 2025-03-26 06:16:49,648 views 139999 129425631868608 Creating job match with data: {
+  "candidate": 11,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive experience in React, React Native, Next.js, Redux, and JavaScript, exceeding the minimum requirements.  Their diverse skillset includes backend development using Node.js, Express.js, and various databases, as well as experience with AWS and DevOps tools.  The candidate's work history showcases a strong ability to build and deploy complex applications. While the job description focuses on frontend, the candidate's strong full-stack abilities could be an asset."
+}
+INFO 2025-03-26 06:16:49,663 views 139999 129425631868608 Successfully created job match: {
+  "id": 12,
+  "candidate": 11,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive experience in React, React Native, Next.js, Redux, and JavaScript, exceeding the minimum requirements.  Their diverse skillset includes backend development using Node.js, Express.js, and various databases, as well as experience with AWS and DevOps tools.  The candidate's work history showcases a strong ability to build and deploy complex applications. While the job description focuses on frontend, the candidate's strong full-stack abilities could be an asset."
+}
+INFO 2025-03-26 06:18:12,267 autoreload 143206 138124812465600 Watching for file changes with StatReloader
+WARNING 2025-03-26 06:18:16,401 log 143206 138124627797696 Not Found: /favicon.ico
+INFO 2025-03-26 06:19:50,332 autoreload 143707 139182064334272 Watching for file changes with StatReloader
+INFO 2025-03-26 06:20:38,712 views 143707 139181890205376 Starting resume upload process
+INFO 2025-03-26 06:20:38,714 views 143707 139181890205376 Request files: <MultiValueDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf ()>]}>
+INFO 2025-03-26 06:20:38,714 views 143707 139181890205376 Request data: <QueryDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf ()>]}>
+INFO 2025-03-26 06:20:38,715 views 143707 139181890205376 Received file: Tarun Kumar resume-1-1.pdf, size: 83527 bytes
+INFO 2025-03-26 06:20:38,715 views 143707 139181890205376 Read 83527 bytes from file
+INFO 2025-03-26 06:20:38,832 views 143707 139181890205376 Extracted text length: 2706 characters
+INFO 2025-03-26 06:20:44,708 views 143707 139181890205376 Successfully parsed resume data: {
+  "name": "Tarun Kumar",
+  "skills": [
+    "JavaScript",
+    "React JS",
+    "Redux/Redux Toolkit",
+    "Next.js",
+    "TypeScript",
+    "React Native",
+    "Tailwind",
+    "Node.js",
+    "Express.js",
+    "Git/GitHub",
+    "Docker",
+    "AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)",
+    "Linux",
+    "MongoDB",
+    "MySQL",
+    "Mongodb aggregation pipeline",
+    "Redis",
+    "Socket.io",
+    "Firebase",
+    "BullMQ",
+    "MSG91",
+    "Augmont",
+    "JWT",
+    "MERN stack",
+    "Web3 storage"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Application",
+      "institution": null,
+      "year": "2021\u20132023"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Triangle Syscom",
+      "position": "Back End Developer (intern)",
+      "duration": "Oct 2023 - Mar 2024",
+      "description": "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."
+    },
+    {
+      "company": "Freelancing",
+      "position": "Backend developer",
+      "duration": "Mar 2024 - June 2024",
+      "description": "Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis."
+    },
+    {
+      "company": "Rooba finance",
+      "position": "Full stack Developer",
+      "duration": "Apr 2024 - Present",
+      "description": "Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage."
+    }
+  ]
+}
+INFO 2025-03-26 06:20:44,723 views 143707 139181890205376 Successfully created candidate profile: {'id': 12, 'name': 'Tarun Kumar', 'skills': ['JavaScript', 'React JS', 'Redux/Redux Toolkit', 'Next.js', 'TypeScript', 'React Native', 'Tailwind', 'Node.js', 'Express.js', 'Git/GitHub', 'Docker', 'AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)', 'Linux', 'MongoDB', 'MySQL', 'Mongodb aggregation pipeline', 'Redis', 'Socket.io', 'Firebase', 'BullMQ', 'MSG91', 'Augmont', 'JWT', 'MERN stack', 'Web3 storage'], 'education': [{'degree': 'Bachelor of Computer Application', 'institution': None, 'year': '2021–2023'}], 'work_experience': [{'company': 'Triangle Syscom', 'position': 'Back End Developer (intern)', 'duration': 'Oct 2023 - Mar 2024', 'description': "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."}, {'company': 'Freelancing', 'position': 'Backend developer', 'duration': 'Mar 2024 - June 2024', 'description': 'Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis.'}, {'company': 'Rooba finance', 'position': 'Full stack Developer', 'duration': 'Apr 2024 - Present', 'description': 'Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage.'}]}
+INFO 2025-03-26 06:20:58,246 views 143707 139181890205376 Starting candidate matching process
+INFO 2025-03-26 06:20:58,247 views 143707 139181890205376 Request data: {'candidate_id': 12, 'job_id': 1}
+INFO 2025-03-26 06:20:58,247 views 143707 139181890205376 Looking up candidate 12 and job 1
+INFO 2025-03-26 06:20:58,251 views 143707 139181890205376 Getting match results from LLM
+INFO 2025-03-26 06:20:59,617 views 143707 139181890205376 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive experience in React, React Native, Next.js, and JavaScript, exceeding the minimum requirements.  Their experience with Redux, TypeScript, and various backend technologies demonstrates a well-rounded skillset. The candidate's portfolio showcases projects using React and Next.js, aligning strongly with the job description.  While the job description only lists frontend skills, the candidate's additional skills are a significant asset."
+}
+INFO 2025-03-26 06:20:59,617 views 143707 139181890205376 Creating job match with data: {
+  "candidate": 12,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive experience in React, React Native, Next.js, and JavaScript, exceeding the minimum requirements.  Their experience with Redux, TypeScript, and various backend technologies demonstrates a well-rounded skillset. The candidate's portfolio showcases projects using React and Next.js, aligning strongly with the job description.  While the job description only lists frontend skills, the candidate's additional skills are a significant asset."
+}
+INFO 2025-03-26 06:20:59,634 views 143707 139181890205376 Successfully created job match: {
+  "id": 13,
+  "candidate": 12,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive experience in React, React Native, Next.js, and JavaScript, exceeding the minimum requirements.  Their experience with Redux, TypeScript, and various backend technologies demonstrates a well-rounded skillset. The candidate's portfolio showcases projects using React and Next.js, aligning strongly with the job description.  While the job description only lists frontend skills, the candidate's additional skills are a significant asset."
+}
+INFO 2025-03-26 06:21:10,502 views 143707 139181890205376 Starting candidate matching process
+INFO 2025-03-26 06:21:10,503 views 143707 139181890205376 Request data: {'candidate_id': 12, 'job_id': 1}
+INFO 2025-03-26 06:21:10,503 views 143707 139181890205376 Looking up candidate 12 and job 1
+INFO 2025-03-26 06:21:10,508 views 143707 139181890205376 Getting match results from LLM
+INFO 2025-03-26 06:21:12,258 views 143707 139181890205376 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the minimum requirements.  Their experience with backend technologies like Node.js and Express.js, as well as databases like MongoDB, demonstrates a well-rounded skillset.  The candidate's projects showcase practical application of these skills and a strong understanding of building scalable and robust applications. The candidate's lack of explicit mention of  'React' in their skill list, despite extensive usage in projects, leads to a slight deduction in the score."
+}
+INFO 2025-03-26 06:21:12,258 views 143707 139181890205376 Creating job match with data: {
+  "candidate": 12,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the minimum requirements.  Their experience with backend technologies like Node.js and Express.js, as well as databases like MongoDB, demonstrates a well-rounded skillset.  The candidate's projects showcase practical application of these skills and a strong understanding of building scalable and robust applications. The candidate's lack of explicit mention of  'React' in their skill list, despite extensive usage in projects, leads to a slight deduction in the score."
+}
+INFO 2025-03-26 06:21:12,273 views 143707 139181890205376 Successfully created job match: {
+  "id": 14,
+  "candidate": 12,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the minimum requirements.  Their experience with backend technologies like Node.js and Express.js, as well as databases like MongoDB, demonstrates a well-rounded skillset.  The candidate's projects showcase practical application of these skills and a strong understanding of building scalable and robust applications. The candidate's lack of explicit mention of  'React' in their skill list, despite extensive usage in projects, leads to a slight deduction in the score."
+}
+INFO 2025-03-26 06:21:22,008 views 143707 139181890205376 Starting candidate matching process
+INFO 2025-03-26 06:21:22,008 views 143707 139181890205376 Request data: {'candidate_id': 12, 'job_id': 2}
+INFO 2025-03-26 06:21:22,009 views 143707 139181890205376 Looking up candidate 12 and job 2
+INFO 2025-03-26 06:21:22,013 views 143707 139181890205376 Getting match results from LLM
+INFO 2025-03-26 06:21:23,245 views 143707 139181890205376 Match results: {
+  "match_score": 0,
+  "missing_skills": [
+    "dsc",
+    "sdc"
+  ],
+  "summary": "The candidate's profile demonstrates strong skills in full-stack development with a focus on MERN stack technologies, AWS, and various NoSQL databases.  However, the candidate lacks the 'dsc' and 'sdc' skills explicitly required in the job description."
+}
+INFO 2025-03-26 06:21:23,246 views 143707 139181890205376 Creating job match with data: {
+  "candidate": 12,
+  "job": 2,
+  "match_score": 0,
+  "missing_skills": [
+    "dsc",
+    "sdc"
+  ],
+  "summary": "The candidate's profile demonstrates strong skills in full-stack development with a focus on MERN stack technologies, AWS, and various NoSQL databases.  However, the candidate lacks the 'dsc' and 'sdc' skills explicitly required in the job description."
+}
+INFO 2025-03-26 06:21:23,261 views 143707 139181890205376 Successfully created job match: {
+  "id": 15,
+  "candidate": 12,
+  "job": 2,
+  "match_score": 0,
+  "missing_skills": [
+    "dsc",
+    "sdc"
+  ],
+  "summary": "The candidate's profile demonstrates strong skills in full-stack development with a focus on MERN stack technologies, AWS, and various NoSQL databases.  However, the candidate lacks the 'dsc' and 'sdc' skills explicitly required in the job description."
+}
+INFO 2025-03-26 06:22:52,711 autoreload 143707 139182064334272 /media/h-57/NewVolume1/coding/sys-tri/resume_matcher/matcher/views.py changed, reloading.
+INFO 2025-03-26 06:22:57,720 autoreload 145810 131014998738368 Watching for file changes with StatReloader
+INFO 2025-03-26 06:23:49,446 views 145810 131014823245504 Starting resume upload process
+INFO 2025-03-26 06:23:49,449 views 145810 131014823245504 Request files: <MultiValueDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf ()>]}>
+INFO 2025-03-26 06:23:49,450 views 145810 131014823245504 Request data: <QueryDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf ()>]}>
+INFO 2025-03-26 06:23:49,453 views 145810 131014823245504 Received file: Tarun Kumar resume-1-1.pdf, size: 83527 bytes
+INFO 2025-03-26 06:23:49,453 views 145810 131014823245504 Read 83527 bytes from file
+INFO 2025-03-26 06:23:49,585 views 145810 131014823245504 Extracted text length: 2706 characters
+INFO 2025-03-26 06:23:54,817 views 145810 131014823245504 Successfully parsed resume data: {
+  "name": "Tarun Kumar",
+  "skills": [
+    "JavaScript",
+    "React JS",
+    "Redux/Redux Toolkit",
+    "Next.js",
+    "TypeScript",
+    "React Native",
+    "Tailwind",
+    "Node.js",
+    "Express.js",
+    "Git/GitHub",
+    "Docker",
+    "AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)",
+    "Linux",
+    "MongoDB",
+    "Mysql",
+    "Mongodb aggregation pipeline",
+    "redis",
+    "Socket.io",
+    "Firebase",
+    "BullMQ",
+    "MSG91",
+    "Augmont",
+    "MVC",
+    "HTML",
+    "React Redux"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Application",
+      "institution": null,
+      "year": "2021\u20132023"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Triangle Syscom",
+      "position": "Back End Developer (intern)",
+      "duration": "Oct 2023 - Mar 2024",
+      "description": "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."
+    },
+    {
+      "company": "Freelancing",
+      "position": "Backend developer",
+      "duration": "Mar 2024 - June 2024",
+      "description": "Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis."
+    },
+    {
+      "company": "Rooba finance",
+      "position": "Full stack Developer",
+      "duration": "Apr 2024 - Present",
+      "description": "Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage."
+    }
+  ]
+}
+INFO 2025-03-26 06:23:54,824 views 145810 131014823245504 Successfully created candidate profile: {'id': 13, 'name': 'Tarun Kumar', 'skills': ['JavaScript', 'React JS', 'Redux/Redux Toolkit', 'Next.js', 'TypeScript', 'React Native', 'Tailwind', 'Node.js', 'Express.js', 'Git/GitHub', 'Docker', 'AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)', 'Linux', 'MongoDB', 'Mysql', 'Mongodb aggregation pipeline', 'redis', 'Socket.io', 'Firebase', 'BullMQ', 'MSG91', 'Augmont', 'MVC', 'HTML', 'React Redux'], 'education': [{'degree': 'Bachelor of Computer Application', 'institution': None, 'year': '2021–2023'}], 'work_experience': [{'company': 'Triangle Syscom', 'position': 'Back End Developer (intern)', 'duration': 'Oct 2023 - Mar 2024', 'description': "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."}, {'company': 'Freelancing', 'position': 'Backend developer', 'duration': 'Mar 2024 - June 2024', 'description': 'Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis.'}, {'company': 'Rooba finance', 'position': 'Full stack Developer', 'duration': 'Apr 2024 - Present', 'description': 'Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage.'}]}
+INFO 2025-03-26 06:24:01,543 views 145810 131014823245504 Starting candidate matching process
+INFO 2025-03-26 06:24:01,543 views 145810 131014823245504 Request data: {'candidate_id': 13, 'job_id': 1}
+INFO 2025-03-26 06:24:01,544 views 145810 131014823245504 Looking up candidate 13 and job 1
+INFO 2025-03-26 06:24:01,549 views 145810 131014823245504 Getting match results from LLM
+INFO 2025-03-26 06:24:03,005 views 145810 131014823245504 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, ReactJS, Next.js, Redux, and TypeScript, exceeding the job requirements.  Their experience also includes relevant backend technologies (Node.js, Express.js) and cloud platforms (AWS), showcasing a well-rounded skillset. The candidate's work history demonstrates practical application of these skills in several projects, with quantifiable achievements. The only minor concern is that their education is relatively recent, but their professional experience compensates for this."
+}
+INFO 2025-03-26 06:24:03,006 views 145810 131014823245504 Creating job match with data: {
+  "candidate": 13,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, ReactJS, Next.js, Redux, and TypeScript, exceeding the job requirements.  Their experience also includes relevant backend technologies (Node.js, Express.js) and cloud platforms (AWS), showcasing a well-rounded skillset. The candidate's work history demonstrates practical application of these skills in several projects, with quantifiable achievements. The only minor concern is that their education is relatively recent, but their professional experience compensates for this."
+}
+INFO 2025-03-26 06:24:03,025 views 145810 131014823245504 Successfully created job match: {
+  "id": 16,
+  "candidate": 13,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, ReactJS, Next.js, Redux, and TypeScript, exceeding the job requirements.  Their experience also includes relevant backend technologies (Node.js, Express.js) and cloud platforms (AWS), showcasing a well-rounded skillset. The candidate's work history demonstrates practical application of these skills in several projects, with quantifiable achievements. The only minor concern is that their education is relatively recent, but their professional experience compensates for this."
+}
+INFO 2025-03-26 06:24:36,472 views 145810 131014823245504 Starting resume upload process
+INFO 2025-03-26 06:24:36,474 views 145810 131014823245504 Request files: <MultiValueDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf ()>]}>
+INFO 2025-03-26 06:24:36,475 views 145810 131014823245504 Request data: <QueryDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf ()>]}>
+INFO 2025-03-26 06:24:36,475 views 145810 131014823245504 Received file: Tarun Kumar resume-1-1.pdf, size: 83527 bytes
+INFO 2025-03-26 06:24:36,476 views 145810 131014823245504 Read 83527 bytes from file
+INFO 2025-03-26 06:24:36,602 views 145810 131014823245504 Extracted text length: 2706 characters
+INFO 2025-03-26 06:24:41,762 views 145810 131014823245504 Successfully parsed resume data: {
+  "name": "Tarun Kumar",
+  "skills": [
+    "JavaScript",
+    "React JS",
+    "Redux/Redux Toolkit",
+    "Next.js",
+    "TypeScript",
+    "React Native",
+    "Tailwind",
+    "Node.js",
+    "Express.js",
+    "Git/GitHub",
+    "Docker",
+    "AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)",
+    "Linux",
+    "MongoDB",
+    "MySQL",
+    "Mongodb aggregation pipeline",
+    "Redis",
+    "Socket.io",
+    "Firebase",
+    "BullMQ",
+    "MSG91",
+    "Augmont",
+    "JWT",
+    "MVC",
+    "HTML"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Application",
+      "institution": null,
+      "year": "2021\u20132023"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Triangle Syscom",
+      "position": "Back End Developer (intern)",
+      "duration": "Oct 2023 - Mar 2024",
+      "description": "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."
+    },
+    {
+      "company": "Freelancing",
+      "position": "Backend developer",
+      "duration": "Mar 2024 - June 2024",
+      "description": "Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis."
+    },
+    {
+      "company": "Rooba finance",
+      "position": "Full stack Developer",
+      "duration": "Apr 2024 - Present",
+      "description": "Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage."
+    }
+  ]
+}
+INFO 2025-03-26 06:24:41,772 views 145810 131014823245504 Successfully created candidate profile: {'id': 14, 'name': 'Tarun Kumar', 'skills': ['JavaScript', 'React JS', 'Redux/Redux Toolkit', 'Next.js', 'TypeScript', 'React Native', 'Tailwind', 'Node.js', 'Express.js', 'Git/GitHub', 'Docker', 'AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)', 'Linux', 'MongoDB', 'MySQL', 'Mongodb aggregation pipeline', 'Redis', 'Socket.io', 'Firebase', 'BullMQ', 'MSG91', 'Augmont', 'JWT', 'MVC', 'HTML'], 'education': [{'degree': 'Bachelor of Computer Application', 'institution': None, 'year': '2021–2023'}], 'work_experience': [{'company': 'Triangle Syscom', 'position': 'Back End Developer (intern)', 'duration': 'Oct 2023 - Mar 2024', 'description': "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."}, {'company': 'Freelancing', 'position': 'Backend developer', 'duration': 'Mar 2024 - June 2024', 'description': 'Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis.'}, {'company': 'Rooba finance', 'position': 'Full stack Developer', 'duration': 'Apr 2024 - Present', 'description': 'Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage.'}]}
+INFO 2025-03-26 06:24:53,528 views 145810 131014823245504 Starting candidate matching process
+INFO 2025-03-26 06:24:53,529 views 145810 131014823245504 Request data: {'candidate_id': 14, 'job_id': 1}
+INFO 2025-03-26 06:24:53,530 views 145810 131014823245504 Looking up candidate 14 and job 1
+INFO 2025-03-26 06:24:53,538 views 145810 131014823245504 Getting match results from LLM
+INFO 2025-03-26 06:24:54,800 views 145810 131014823245504 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the minimum requirements.  Their experience also encompasses a wide range of backend technologies and DevOps practices, showcasing a versatile skillset. The candidate's work history demonstrates proficiency in building and deploying complex applications, making them a strong candidate."
+}
+INFO 2025-03-26 06:24:54,801 views 145810 131014823245504 Creating job match with data: {
+  "candidate": 14,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the minimum requirements.  Their experience also encompasses a wide range of backend technologies and DevOps practices, showcasing a versatile skillset. The candidate's work history demonstrates proficiency in building and deploying complex applications, making them a strong candidate."
+}
+INFO 2025-03-26 06:24:54,814 views 145810 131014823245504 Successfully created job match: {
+  "id": 17,
+  "candidate": 14,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the minimum requirements.  Their experience also encompasses a wide range of backend technologies and DevOps practices, showcasing a versatile skillset. The candidate's work history demonstrates proficiency in building and deploying complex applications, making them a strong candidate."
+}
+INFO 2025-03-26 06:25:05,449 views 145810 131014823245504 Starting candidate matching process
+INFO 2025-03-26 06:25:05,449 views 145810 131014823245504 Request data: {'candidate_id': 14, 'job_id': 1}
+INFO 2025-03-26 06:25:05,450 views 145810 131014823245504 Looking up candidate 14 and job 1
+INFO 2025-03-26 06:25:05,455 views 145810 131014823245504 Getting match results from LLM
+INFO 2025-03-26 06:25:06,769 views 145810 131014823245504 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux/Redux Toolkit, and TypeScript, exceeding the job requirements.  Their experience with backend technologies such as Node.js and Express.js, along with database experience (MongoDB, MySQL, Redis) demonstrates a well-rounded skillset.  The candidate's work history showcases practical application of these skills in multiple projects, further strengthening their candidacy."
+}
+INFO 2025-03-26 06:25:06,770 views 145810 131014823245504 Creating job match with data: {
+  "candidate": 14,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux/Redux Toolkit, and TypeScript, exceeding the job requirements.  Their experience with backend technologies such as Node.js and Express.js, along with database experience (MongoDB, MySQL, Redis) demonstrates a well-rounded skillset.  The candidate's work history showcases practical application of these skills in multiple projects, further strengthening their candidacy."
+}
+INFO 2025-03-26 06:25:06,784 views 145810 131014823245504 Successfully created job match: {
+  "id": 18,
+  "candidate": 14,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux/Redux Toolkit, and TypeScript, exceeding the job requirements.  Their experience with backend technologies such as Node.js and Express.js, along with database experience (MongoDB, MySQL, Redis) demonstrates a well-rounded skillset.  The candidate's work history showcases practical application of these skills in multiple projects, further strengthening their candidacy."
+}
+INFO 2025-03-26 06:25:12,481 views 145810 131014823245504 Starting candidate matching process
+INFO 2025-03-26 06:25:12,482 views 145810 131014823245504 Request data: {'candidate_id': 14, 'job_id': 2}
+INFO 2025-03-26 06:25:12,482 views 145810 131014823245504 Looking up candidate 14 and job 2
+INFO 2025-03-26 06:25:12,487 views 145810 131014823245504 Getting match results from LLM
+INFO 2025-03-26 06:25:13,791 views 145810 131014823245504 Match results: {
+  "match_score": 0,
+  "missing_skills": [
+    "dsc",
+    "sdc"
+  ],
+  "summary": "The candidate's skills and experience are not relevant to the job requirements. The candidate possesses strong full-stack development skills with a focus on MERN stack technologies, AWS, and various other tools.  However, the required skills 'dsc' and 'sdc' are not present in the candidate's profile."
+}
+INFO 2025-03-26 06:25:13,791 views 145810 131014823245504 Creating job match with data: {
+  "candidate": 14,
+  "job": 2,
+  "match_score": 0,
+  "missing_skills": [
+    "dsc",
+    "sdc"
+  ],
+  "summary": "The candidate's skills and experience are not relevant to the job requirements. The candidate possesses strong full-stack development skills with a focus on MERN stack technologies, AWS, and various other tools.  However, the required skills 'dsc' and 'sdc' are not present in the candidate's profile."
+}
+INFO 2025-03-26 06:25:13,810 views 145810 131014823245504 Successfully created job match: {
+  "id": 19,
+  "candidate": 14,
+  "job": 2,
+  "match_score": 0,
+  "missing_skills": [
+    "dsc",
+    "sdc"
+  ],
+  "summary": "The candidate's skills and experience are not relevant to the job requirements. The candidate possesses strong full-stack development skills with a focus on MERN stack technologies, AWS, and various other tools.  However, the required skills 'dsc' and 'sdc' are not present in the candidate's profile."
+}
+INFO 2025-03-26 06:25:50,417 views 145810 131014823245504 Starting candidate matching process
+INFO 2025-03-26 06:25:50,418 views 145810 131014823245504 Request data: {'candidate_id': 14, 'job_id': 1}
+INFO 2025-03-26 06:25:50,419 views 145810 131014823245504 Looking up candidate 14 and job 1
+INFO 2025-03-26 06:25:50,428 views 145810 131014823245504 Getting match results from LLM
+INFO 2025-03-26 06:25:51,537 views 145810 131014823245504 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux/Redux Toolkit, and TypeScript, exceeding the minimum requirements.  Their experience also includes a wide range of backend technologies and substantial experience in multiple projects demonstrating practical application of these skills."
+}
+INFO 2025-03-26 06:25:51,538 views 145810 131014823245504 Creating job match with data: {
+  "candidate": 14,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux/Redux Toolkit, and TypeScript, exceeding the minimum requirements.  Their experience also includes a wide range of backend technologies and substantial experience in multiple projects demonstrating practical application of these skills."
+}
+INFO 2025-03-26 06:25:51,552 views 145810 131014823245504 Successfully created job match: {
+  "id": 20,
+  "candidate": 14,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux/Redux Toolkit, and TypeScript, exceeding the minimum requirements.  Their experience also includes a wide range of backend technologies and substantial experience in multiple projects demonstrating practical application of these skills."
+}
+INFO 2025-03-26 06:44:19,935 views 145810 131014823245504 Starting candidate matching process
+INFO 2025-03-26 06:44:19,935 views 145810 131014823245504 Request data: {'candidate_id': 14, 'job_id': 1}
+INFO 2025-03-26 06:44:19,936 views 145810 131014823245504 Looking up candidate 14 and job 1
+INFO 2025-03-26 06:44:19,943 views 145810 131014823245504 Getting match results from LLM
+INFO 2025-03-26 06:44:22,888 views 145810 131014823245504 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "Tarun Kumar is a strong candidate with extensive experience in React, Javascript, and related technologies.  His experience includes building complex applications using React, Next.js, Redux, and TypeScript. While the job description only lists React and Javascript, his profile demonstrates a comprehensive skillset exceeding the requirements, including backend development experience which could be a valuable asset."
+}
+INFO 2025-03-26 06:44:22,888 views 145810 131014823245504 Creating job match with data: {
+  "candidate": 14,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "Tarun Kumar is a strong candidate with extensive experience in React, Javascript, and related technologies.  His experience includes building complex applications using React, Next.js, Redux, and TypeScript. While the job description only lists React and Javascript, his profile demonstrates a comprehensive skillset exceeding the requirements, including backend development experience which could be a valuable asset."
+}
+INFO 2025-03-26 06:44:22,902 views 145810 131014823245504 Successfully created job match: {
+  "id": 21,
+  "candidate": 14,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "Tarun Kumar is a strong candidate with extensive experience in React, Javascript, and related technologies.  His experience includes building complex applications using React, Next.js, Redux, and TypeScript. While the job description only lists React and Javascript, his profile demonstrates a comprehensive skillset exceeding the requirements, including backend development experience which could be a valuable asset."
+}
+INFO 2025-03-26 06:45:54,128 views 145810 131014823245504 Starting candidate matching process
+INFO 2025-03-26 06:45:54,129 views 145810 131014823245504 Request data: {'candidate_id': 14, 'job_id': 1}
+INFO 2025-03-26 06:45:54,130 views 145810 131014823245504 Looking up candidate 14 and job 1
+INFO 2025-03-26 06:45:54,137 views 145810 131014823245504 Getting match results from LLM
+INFO 2025-03-26 06:45:55,462 views 145810 131014823245504 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "Tarun Kumar is a strong candidate with extensive experience in React, Javascript, and related technologies. His portfolio demonstrates proficiency in building complex applications using React, Next.js, Redux, and TypeScript.  While the job description focuses on frontend, his backend skills are also highly relevant and could be a valuable asset."
+}
+INFO 2025-03-26 06:45:55,462 views 145810 131014823245504 Creating job match with data: {
+  "candidate": 14,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "Tarun Kumar is a strong candidate with extensive experience in React, Javascript, and related technologies. His portfolio demonstrates proficiency in building complex applications using React, Next.js, Redux, and TypeScript.  While the job description focuses on frontend, his backend skills are also highly relevant and could be a valuable asset."
+}
+INFO 2025-03-26 06:45:55,476 views 145810 131014823245504 Successfully created job match: {
+  "id": 22,
+  "candidate": 14,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "Tarun Kumar is a strong candidate with extensive experience in React, Javascript, and related technologies. His portfolio demonstrates proficiency in building complex applications using React, Next.js, Redux, and TypeScript.  While the job description focuses on frontend, his backend skills are also highly relevant and could be a valuable asset."
+}
+INFO 2025-03-26 06:46:28,261 views 145810 131014823245504 Starting candidate matching process
+INFO 2025-03-26 06:46:28,262 views 145810 131014823245504 Request data: {'candidate_id': 14, 'job_id': 1}
+INFO 2025-03-26 06:46:28,263 views 145810 131014823245504 Looking up candidate 14 and job 1
+INFO 2025-03-26 06:46:28,269 views 145810 131014823245504 Getting match results from LLM
+INFO 2025-03-26 06:46:29,763 views 145810 131014823245504 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux/Redux Toolkit, TypeScript, and HTML, all of which strongly align with the job requirements.  Their experience also showcases proficiency in backend technologies, indicating a well-rounded skillset.  The candidate's work history demonstrates practical application of these skills in various projects, further strengthening their suitability for the role."
+}
+INFO 2025-03-26 06:46:29,763 views 145810 131014823245504 Creating job match with data: {
+  "candidate": 14,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux/Redux Toolkit, TypeScript, and HTML, all of which strongly align with the job requirements.  Their experience also showcases proficiency in backend technologies, indicating a well-rounded skillset.  The candidate's work history demonstrates practical application of these skills in various projects, further strengthening their suitability for the role."
+}
+INFO 2025-03-26 06:46:29,779 views 145810 131014823245504 Successfully created job match: {
+  "id": 23,
+  "candidate": 14,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux/Redux Toolkit, TypeScript, and HTML, all of which strongly align with the job requirements.  Their experience also showcases proficiency in backend technologies, indicating a well-rounded skillset.  The candidate's work history demonstrates practical application of these skills in various projects, further strengthening their suitability for the role."
+}
+INFO 2025-03-26 06:46:59,137 views 145810 131014823245504 Starting resume upload process
+INFO 2025-03-26 06:46:59,139 views 145810 131014823245504 Request files: <MultiValueDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf ()>]}>
+INFO 2025-03-26 06:46:59,139 views 145810 131014823245504 Request data: <QueryDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf ()>]}>
+INFO 2025-03-26 06:46:59,139 views 145810 131014823245504 Received file: Tarun Kumar resume-1-1.pdf, size: 83527 bytes
+INFO 2025-03-26 06:46:59,140 views 145810 131014823245504 Read 83527 bytes from file
+INFO 2025-03-26 06:46:59,256 views 145810 131014823245504 Extracted text length: 2706 characters
+INFO 2025-03-26 06:47:04,381 views 145810 131014823245504 Successfully parsed resume data: {
+  "name": "Tarun Kumar",
+  "skills": [
+    "JavaScript",
+    "React JS",
+    "Redux/Redux Toolkit",
+    "Next.js",
+    "TypeScript",
+    "React Native",
+    "Tailwind",
+    "Node.js",
+    "Express.js",
+    "Git/GitHub",
+    "Docker",
+    "AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)",
+    "Linux",
+    "MongoDB",
+    "MySQL",
+    "Mongodb aggregation pipeline",
+    "Redis",
+    "Socket.io",
+    "Firebase",
+    "BullMQ",
+    "MSG91",
+    "Augmont",
+    "JWT",
+    "MERN stack",
+    "Web3 storage"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Application",
+      "institution": null,
+      "year": "2021\u20132023"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Triangle Syscom",
+      "position": "Back End Developer (intern)",
+      "duration": "Oct 2023 - Mar 2024",
+      "description": "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."
+    },
+    {
+      "company": "Freelancing",
+      "position": "Backend developer",
+      "duration": "Mar 2024 - June 2024",
+      "description": "Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis."
+    },
+    {
+      "company": "Rooba finance",
+      "position": "Full stack Developer",
+      "duration": "Apr 2024 - Present",
+      "description": "Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage."
+    }
+  ]
+}
+INFO 2025-03-26 06:47:04,396 views 145810 131014823245504 Successfully created candidate profile: {'id': 15, 'name': 'Tarun Kumar', 'skills': ['JavaScript', 'React JS', 'Redux/Redux Toolkit', 'Next.js', 'TypeScript', 'React Native', 'Tailwind', 'Node.js', 'Express.js', 'Git/GitHub', 'Docker', 'AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)', 'Linux', 'MongoDB', 'MySQL', 'Mongodb aggregation pipeline', 'Redis', 'Socket.io', 'Firebase', 'BullMQ', 'MSG91', 'Augmont', 'JWT', 'MERN stack', 'Web3 storage'], 'education': [{'degree': 'Bachelor of Computer Application', 'institution': None, 'year': '2021–2023'}], 'work_experience': [{'company': 'Triangle Syscom', 'position': 'Back End Developer (intern)', 'duration': 'Oct 2023 - Mar 2024', 'description': "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."}, {'company': 'Freelancing', 'position': 'Backend developer', 'duration': 'Mar 2024 - June 2024', 'description': 'Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis.'}, {'company': 'Rooba finance', 'position': 'Full stack Developer', 'duration': 'Apr 2024 - Present', 'description': 'Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage.'}]}
+INFO 2025-03-26 06:47:13,442 views 145810 131014823245504 Starting candidate matching process
+INFO 2025-03-26 06:47:13,443 views 145810 131014823245504 Request data: {'candidate_id': 15, 'job_id': 1}
+INFO 2025-03-26 06:47:13,443 views 145810 131014823245504 Looking up candidate 15 and job 1
+INFO 2025-03-26 06:47:13,448 views 145810 131014823245504 Getting match results from LLM
+INFO 2025-03-26 06:47:14,641 views 145810 131014823245504 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the minimum requirements.  Their experience encompasses full-stack development, demonstrating proficiency in backend technologies as well. The candidate's projects showcase practical application of the required skills and a strong understanding of relevant technologies."
+}
+INFO 2025-03-26 06:47:14,641 views 145810 131014823245504 Creating job match with data: {
+  "candidate": 15,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the minimum requirements.  Their experience encompasses full-stack development, demonstrating proficiency in backend technologies as well. The candidate's projects showcase practical application of the required skills and a strong understanding of relevant technologies."
+}
+INFO 2025-03-26 06:47:14,655 views 145810 131014823245504 Successfully created job match: {
+  "id": 24,
+  "candidate": 15,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the minimum requirements.  Their experience encompasses full-stack development, demonstrating proficiency in backend technologies as well. The candidate's projects showcase practical application of the required skills and a strong understanding of relevant technologies."
+}
+INFO 2025-03-26 06:48:58,666 autoreload 150609 135497731474880 Watching for file changes with StatReloader
+INFO 2025-03-26 06:49:24,398 views 150609 135497556948672 Starting resume upload process
+INFO 2025-03-26 06:49:24,400 views 150609 135497556948672 Request files: <MultiValueDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf ()>]}>
+INFO 2025-03-26 06:49:24,400 views 150609 135497556948672 Request data: <QueryDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1-1.pdf ()>]}>
+INFO 2025-03-26 06:49:24,400 views 150609 135497556948672 Received file: Tarun Kumar resume-1-1.pdf, size: 83527 bytes
+INFO 2025-03-26 06:49:24,401 views 150609 135497556948672 Read 83527 bytes from file
+INFO 2025-03-26 06:49:24,469 views 150609 135497556948672 Extracted text length: 2706 characters
+INFO 2025-03-26 06:49:29,683 views 150609 135497556948672 Successfully parsed resume data: {
+  "name": "Tarun Kumar",
+  "skills": [
+    "JavaScript",
+    "React JS",
+    "Redux/Redux Toolkit",
+    "Next.js",
+    "TypeScript",
+    "React Native",
+    "Tailwind",
+    "Node.js",
+    "Express.js",
+    "Git/GitHub",
+    "Docker",
+    "AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)",
+    "Linux",
+    "MongoDB",
+    "Mysql",
+    "Mongodb aggregation pipeline",
+    "redis",
+    "Socket.io",
+    "Firebase",
+    "BullMQ",
+    "MSG91",
+    "Augmont",
+    "MVC",
+    "HTML",
+    "React Redux"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Application",
+      "institution": null,
+      "year": "2021\u20132023"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Triangle Syscom",
+      "position": "Back End Developer (intern)",
+      "duration": "Oct 2023 - Mar 2024",
+      "description": "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."
+    },
+    {
+      "company": "Freelancing",
+      "position": "Backend developer",
+      "duration": "Mar 2024 - June 2024",
+      "description": "Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis."
+    },
+    {
+      "company": "Rooba finance",
+      "position": "Full stack Developer",
+      "duration": "Apr 2024 - Present",
+      "description": "Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage."
+    }
+  ]
+}
+INFO 2025-03-26 06:49:29,699 views 150609 135497556948672 Successfully created candidate profile: {'id': 16, 'name': 'Tarun Kumar', 'skills': ['JavaScript', 'React JS', 'Redux/Redux Toolkit', 'Next.js', 'TypeScript', 'React Native', 'Tailwind', 'Node.js', 'Express.js', 'Git/GitHub', 'Docker', 'AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)', 'Linux', 'MongoDB', 'Mysql', 'Mongodb aggregation pipeline', 'redis', 'Socket.io', 'Firebase', 'BullMQ', 'MSG91', 'Augmont', 'MVC', 'HTML', 'React Redux'], 'education': [{'degree': 'Bachelor of Computer Application', 'institution': None, 'year': '2021–2023'}], 'work_experience': [{'company': 'Triangle Syscom', 'position': 'Back End Developer (intern)', 'duration': 'Oct 2023 - Mar 2024', 'description': "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."}, {'company': 'Freelancing', 'position': 'Backend developer', 'duration': 'Mar 2024 - June 2024', 'description': 'Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis.'}, {'company': 'Rooba finance', 'position': 'Full stack Developer', 'duration': 'Apr 2024 - Present', 'description': 'Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage.'}]}
+INFO 2025-03-26 06:49:35,543 views 150609 135497556948672 Starting candidate matching process
+INFO 2025-03-26 06:49:35,544 views 150609 135497556948672 Request data: {'candidate_id': 16, 'job_id': 1}
+INFO 2025-03-26 06:49:35,544 views 150609 135497556948672 Looking up candidate 16 and job 1
+INFO 2025-03-26 06:49:35,549 views 150609 135497556948672 Getting match results from LLM
+INFO 2025-03-26 06:49:37,155 views 150609 135497556948672 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Redux, Next.js, TypeScript, and React Native, exceeding the job requirements.  Their experience also encompasses a wide range of backend technologies and cloud services, demonstrating a full-stack capability.  The candidate's work history showcases practical application of these skills in building web applications and managing data efficiently.  The lack of explicitly listed 'React' is compensated by several React-related skills and the demonstrated proficiency. "
+}
+INFO 2025-03-26 06:49:37,155 views 150609 135497556948672 Creating job match with data: {
+  "candidate": 16,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Redux, Next.js, TypeScript, and React Native, exceeding the job requirements.  Their experience also encompasses a wide range of backend technologies and cloud services, demonstrating a full-stack capability.  The candidate's work history showcases practical application of these skills in building web applications and managing data efficiently.  The lack of explicitly listed 'React' is compensated by several React-related skills and the demonstrated proficiency. "
+}
+INFO 2025-03-26 06:49:37,172 views 150609 135497556948672 Successfully created job match: {
+  "id": 25,
+  "candidate": 16,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Redux, Next.js, TypeScript, and React Native, exceeding the job requirements.  Their experience also encompasses a wide range of backend technologies and cloud services, demonstrating a full-stack capability.  The candidate's work history showcases practical application of these skills in building web applications and managing data efficiently.  The lack of explicitly listed 'React' is compensated by several React-related skills and the demonstrated proficiency."
+}
+INFO 2025-03-26 06:49:42,403 views 150609 135497556948672 Starting cover letter generation for match 25
+INFO 2025-03-26 06:49:42,406 views 150609 135497556948672 Getting cover letter from LLM
+INFO 2025-03-26 06:49:45,655 views 150609 135497556948672 Successfully generated cover letter
+INFO 2025-03-26 06:50:20,886 views 150609 135497556948672 Starting candidate matching process
+INFO 2025-03-26 06:50:20,886 views 150609 135497556948672 Request data: {'candidate_id': 16, 'job_id': 1}
+INFO 2025-03-26 06:50:20,887 views 150609 135497556948672 Looking up candidate 16 and job 1
+INFO 2025-03-26 06:50:20,894 views 150609 135497556948672 Getting match results from LLM
+INFO 2025-03-26 06:50:22,417 views 150609 135497556948672 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the minimum requirements.  Their experience also encompasses a wide range of backend technologies and demonstrates strong full-stack capabilities.  The candidate's projects showcase practical application of required skills and a proven ability to deliver results. The candidate's lack of a formal degree might be a factor considered by hiring managers, but overall profile is very strong."
+}
+INFO 2025-03-26 06:50:22,418 views 150609 135497556948672 Creating job match with data: {
+  "candidate": 16,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the minimum requirements.  Their experience also encompasses a wide range of backend technologies and demonstrates strong full-stack capabilities.  The candidate's projects showcase practical application of required skills and a proven ability to deliver results. The candidate's lack of a formal degree might be a factor considered by hiring managers, but overall profile is very strong."
+}
+INFO 2025-03-26 06:50:22,434 views 150609 135497556948672 Successfully created job match: {
+  "id": 26,
+  "candidate": 16,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the minimum requirements.  Their experience also encompasses a wide range of backend technologies and demonstrates strong full-stack capabilities.  The candidate's projects showcase practical application of required skills and a proven ability to deliver results. The candidate's lack of a formal degree might be a factor considered by hiring managers, but overall profile is very strong."
+}
+INFO 2025-03-26 06:50:25,157 views 150609 135497556948672 Starting cover letter generation for match 26
+INFO 2025-03-26 06:50:25,162 views 150609 135497556948672 Getting cover letter from LLM
+INFO 2025-03-26 06:50:27,984 views 150609 135497556948672 Successfully generated cover letter
+INFO 2025-03-26 06:53:11,071 views 150609 135497556948672 Starting resume upload process
+INFO 2025-03-26 06:53:11,075 views 150609 135497556948672 Request files: <MultiValueDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1.pdf ()>]}>
+INFO 2025-03-26 06:53:11,076 views 150609 135497556948672 Request data: <QueryDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1.pdf ()>]}>
+INFO 2025-03-26 06:53:11,076 views 150609 135497556948672 Received file: Tarun Kumar resume-1.pdf, size: 83527 bytes
+INFO 2025-03-26 06:53:11,077 views 150609 135497556948672 Read 83527 bytes from file
+INFO 2025-03-26 06:53:11,196 views 150609 135497556948672 Extracted text length: 2706 characters
+INFO 2025-03-26 06:53:16,293 views 150609 135497556948672 Successfully parsed resume data: {
+  "name": "Tarun Kumar",
+  "skills": [
+    "JavaScript",
+    "React JS",
+    "Redux/Redux Toolkit",
+    "Next.js",
+    "TypeScript",
+    "React Native",
+    "Tailwind",
+    "Node.js",
+    "Express.js",
+    "Git/GitHub",
+    "Docker",
+    "AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)",
+    "Linux",
+    "MongoDB",
+    "MySQL",
+    "Mongodb aggregation pipeline",
+    "Redis",
+    "Socket.io",
+    "Firebase",
+    "BullMQ",
+    "MSG91",
+    "Augmont",
+    "JWT",
+    "MVC",
+    "HTML"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Application",
+      "institution": null,
+      "year": "2021\u20132023"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Triangle Syscom",
+      "position": "Back End Developer (intern)",
+      "duration": "Oct 2023 - Mar 2024",
+      "description": "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."
+    },
+    {
+      "company": "Freelancing",
+      "position": "Backend developer",
+      "duration": "Mar 2024 - June 2024",
+      "description": "Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis."
+    },
+    {
+      "company": "Rooba finance",
+      "position": "Full stack Developer",
+      "duration": "Apr 2024 - Present",
+      "description": "Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage."
+    }
+  ]
+}
+INFO 2025-03-26 06:53:16,305 views 150609 135497556948672 Successfully created candidate profile: {'id': 17, 'name': 'Tarun Kumar', 'skills': ['JavaScript', 'React JS', 'Redux/Redux Toolkit', 'Next.js', 'TypeScript', 'React Native', 'Tailwind', 'Node.js', 'Express.js', 'Git/GitHub', 'Docker', 'AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)', 'Linux', 'MongoDB', 'MySQL', 'Mongodb aggregation pipeline', 'Redis', 'Socket.io', 'Firebase', 'BullMQ', 'MSG91', 'Augmont', 'JWT', 'MVC', 'HTML'], 'education': [{'degree': 'Bachelor of Computer Application', 'institution': None, 'year': '2021–2023'}], 'work_experience': [{'company': 'Triangle Syscom', 'position': 'Back End Developer (intern)', 'duration': 'Oct 2023 - Mar 2024', 'description': "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."}, {'company': 'Freelancing', 'position': 'Backend developer', 'duration': 'Mar 2024 - June 2024', 'description': 'Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis.'}, {'company': 'Rooba finance', 'position': 'Full stack Developer', 'duration': 'Apr 2024 - Present', 'description': 'Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage.'}]}
+INFO 2025-03-26 06:53:36,496 views 150609 135497556948672 Starting candidate matching process
+INFO 2025-03-26 06:53:36,497 views 150609 135497556948672 Request data: {'candidate_id': 17, 'job_id': 1}
+INFO 2025-03-26 06:53:36,497 views 150609 135497556948672 Looking up candidate 17 and job 1
+INFO 2025-03-26 06:53:36,501 views 150609 135497556948672 Getting match results from LLM
+INFO 2025-03-26 06:53:37,843 views 150609 135497556948672 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, and TypeScript, exceeding the minimum requirements.  Their experience also encompasses a wide range of backend technologies and frameworks, demonstrating full-stack capabilities.  The candidate's projects showcase practical application of these skills in diverse real-world scenarios."
+}
+INFO 2025-03-26 06:53:37,844 views 150609 135497556948672 Creating job match with data: {
+  "candidate": 17,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, and TypeScript, exceeding the minimum requirements.  Their experience also encompasses a wide range of backend technologies and frameworks, demonstrating full-stack capabilities.  The candidate's projects showcase practical application of these skills in diverse real-world scenarios."
+}
+INFO 2025-03-26 06:53:37,858 views 150609 135497556948672 Successfully created job match: {
+  "id": 27,
+  "candidate": 17,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, and TypeScript, exceeding the minimum requirements.  Their experience also encompasses a wide range of backend technologies and frameworks, demonstrating full-stack capabilities.  The candidate's projects showcase practical application of these skills in diverse real-world scenarios."
+}
+INFO 2025-03-26 06:53:47,858 views 150609 135497556948672 Starting cover letter generation for match 27
+INFO 2025-03-26 06:53:47,861 views 150609 135497556948672 Getting cover letter from LLM
+INFO 2025-03-26 06:53:51,175 views 150609 135497556948672 Successfully generated cover letter
+INFO 2025-03-26 06:57:59,830 views 150609 135497376569024 Starting resume upload process
+INFO 2025-03-26 06:57:59,835 views 150609 135497376569024 Request files: <MultiValueDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1.pdf ()>]}>
+INFO 2025-03-26 06:57:59,835 views 150609 135497376569024 Request data: <QueryDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1.pdf ()>]}>
+INFO 2025-03-26 06:57:59,836 views 150609 135497376569024 Received file: Tarun Kumar resume-1.pdf, size: 83527 bytes
+INFO 2025-03-26 06:57:59,836 views 150609 135497376569024 Read 83527 bytes from file
+INFO 2025-03-26 06:57:59,952 views 150609 135497376569024 Extracted text length: 2706 characters
+INFO 2025-03-26 06:58:07,020 views 150609 135497376569024 Successfully parsed resume data: {
+  "name": "Tarun Kumar",
+  "skills": [
+    "JavaScript",
+    "React JS",
+    "Redux/Redux Toolkit",
+    "Next.js",
+    "TypeScript",
+    "React Native",
+    "Tailwind",
+    "Node.js",
+    "Express.js",
+    "Git/GitHub",
+    "Docker",
+    "AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)",
+    "Linux",
+    "MongoDB",
+    "MySQL",
+    "MongoDB aggregation pipeline",
+    "Redis",
+    "Socket.io",
+    "Firebase",
+    "BullMQ",
+    "MSG91",
+    "Augmont",
+    "JWT",
+    "MERN stack",
+    "Web3 storage"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Application",
+      "institution": null,
+      "year": "2021\u20132023"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Triangle Syscom",
+      "position": "Back End Developer (intern)",
+      "duration": "Oct 2023 - Mar 2024",
+      "description": "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."
+    },
+    {
+      "company": "Freelancing",
+      "position": "Backend developer",
+      "duration": "Mar 2024 - June 2024",
+      "description": "Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis."
+    },
+    {
+      "company": "Rooba finance",
+      "position": "Full stack Developer",
+      "duration": "Apr 2024 - Present",
+      "description": "Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage."
+    }
+  ]
+}
+INFO 2025-03-26 06:58:07,036 views 150609 135497376569024 Successfully created candidate profile: {'id': 18, 'name': 'Tarun Kumar', 'skills': ['JavaScript', 'React JS', 'Redux/Redux Toolkit', 'Next.js', 'TypeScript', 'React Native', 'Tailwind', 'Node.js', 'Express.js', 'Git/GitHub', 'Docker', 'AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)', 'Linux', 'MongoDB', 'MySQL', 'MongoDB aggregation pipeline', 'Redis', 'Socket.io', 'Firebase', 'BullMQ', 'MSG91', 'Augmont', 'JWT', 'MERN stack', 'Web3 storage'], 'education': [{'degree': 'Bachelor of Computer Application', 'institution': None, 'year': '2021–2023'}], 'work_experience': [{'company': 'Triangle Syscom', 'position': 'Back End Developer (intern)', 'duration': 'Oct 2023 - Mar 2024', 'description': "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."}, {'company': 'Freelancing', 'position': 'Backend developer', 'duration': 'Mar 2024 - June 2024', 'description': 'Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis.'}, {'company': 'Rooba finance', 'position': 'Full stack Developer', 'duration': 'Apr 2024 - Present', 'description': 'Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage.'}]}
+INFO 2025-03-26 06:58:12,858 views 150609 135497376569024 Starting candidate matching process
+INFO 2025-03-26 06:58:12,859 views 150609 135497376569024 Request data: {'candidate_id': 18, 'job_id': 1}
+INFO 2025-03-26 06:58:12,859 views 150609 135497376569024 Looking up candidate 18 and job 1
+INFO 2025-03-26 06:58:12,864 views 150609 135497376569024 Getting match results from LLM
+INFO 2025-03-26 06:58:14,284 views 150609 135497376569024 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the job requirements.  Their experience with backend technologies like Node.js and Express.js, and database technologies such as MongoDB and MySQL, demonstrates a well-rounded skillset. The candidate's projects showcase practical application of these skills in building real-world applications."
+}
+INFO 2025-03-26 06:58:14,287 views 150609 135497376569024 Creating job match with data: {
+  "candidate": 18,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the job requirements.  Their experience with backend technologies like Node.js and Express.js, and database technologies such as MongoDB and MySQL, demonstrates a well-rounded skillset. The candidate's projects showcase practical application of these skills in building real-world applications."
+}
+INFO 2025-03-26 06:58:14,301 views 150609 135497376569024 Successfully created job match: {
+  "id": 28,
+  "candidate": 18,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the job requirements.  Their experience with backend technologies like Node.js and Express.js, and database technologies such as MongoDB and MySQL, demonstrates a well-rounded skillset. The candidate's projects showcase practical application of these skills in building real-world applications."
+}
+INFO 2025-03-26 06:58:29,814 views 150609 135497376569024 Starting candidate matching process
+INFO 2025-03-26 06:58:29,815 views 150609 135497376569024 Request data: {'candidate_id': 18, 'job_id': 2}
+INFO 2025-03-26 06:58:29,815 views 150609 135497376569024 Looking up candidate 18 and job 2
+INFO 2025-03-26 06:58:29,821 views 150609 135497376569024 Getting match results from LLM
+INFO 2025-03-26 06:58:31,291 views 150609 135497376569024 Match results: {
+  "match_score": 25,
+  "missing_skills": [
+    "terraform",
+    "ansible",
+    "azure"
+  ],
+  "summary": "The candidate possesses some relevant skills like Linux and experience with AWS, but lacks crucial DevOps skills such as Terraform, Ansible, and Azure, which are explicitly required for the job.  Their strong background in full-stack development, particularly backend technologies, might be transferable, but the missing DevOps-specific skills represent a significant gap."
+}
+INFO 2025-03-26 06:58:31,292 views 150609 135497376569024 Creating job match with data: {
+  "candidate": 18,
+  "job": 2,
+  "match_score": 25,
+  "missing_skills": [
+    "terraform",
+    "ansible",
+    "azure"
+  ],
+  "summary": "The candidate possesses some relevant skills like Linux and experience with AWS, but lacks crucial DevOps skills such as Terraform, Ansible, and Azure, which are explicitly required for the job.  Their strong background in full-stack development, particularly backend technologies, might be transferable, but the missing DevOps-specific skills represent a significant gap."
+}
+INFO 2025-03-26 06:58:31,307 views 150609 135497376569024 Successfully created job match: {
+  "id": 29,
+  "candidate": 18,
+  "job": 2,
+  "match_score": 25,
+  "missing_skills": [
+    "terraform",
+    "ansible",
+    "azure"
+  ],
+  "summary": "The candidate possesses some relevant skills like Linux and experience with AWS, but lacks crucial DevOps skills such as Terraform, Ansible, and Azure, which are explicitly required for the job.  Their strong background in full-stack development, particularly backend technologies, might be transferable, but the missing DevOps-specific skills represent a significant gap."
+}
+INFO 2025-03-26 06:59:02,907 views 150609 135497376569024 Starting candidate matching process
+INFO 2025-03-26 06:59:02,907 views 150609 135497376569024 Request data: {'candidate_id': 18, 'job_id': 1}
+INFO 2025-03-26 06:59:02,908 views 150609 135497376569024 Looking up candidate 18 and job 1
+INFO 2025-03-26 06:59:02,913 views 150609 135497376569024 Getting match results from LLM
+INFO 2025-03-26 06:59:04,150 views 150609 135497376569024 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the job requirements.  Their experience with backend technologies like Node.js and Express.js, while not strictly required, demonstrates a strong full-stack capability."
+}
+INFO 2025-03-26 06:59:04,151 views 150609 135497376569024 Creating job match with data: {
+  "candidate": 18,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the job requirements.  Their experience with backend technologies like Node.js and Express.js, while not strictly required, demonstrates a strong full-stack capability."
+}
+INFO 2025-03-26 06:59:04,164 views 150609 135497376569024 Successfully created job match: {
+  "id": 30,
+  "candidate": 18,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, Redux, and TypeScript, exceeding the job requirements.  Their experience with backend technologies like Node.js and Express.js, while not strictly required, demonstrates a strong full-stack capability."
+}
+INFO 2025-03-26 06:59:12,577 views 150609 135497376569024 Starting candidate matching process
+INFO 2025-03-26 06:59:12,578 views 150609 135497376569024 Request data: {'candidate_id': 18, 'job_id': 2}
+INFO 2025-03-26 06:59:12,578 views 150609 135497376569024 Looking up candidate 18 and job 2
+INFO 2025-03-26 06:59:12,583 views 150609 135497376569024 Getting match results from LLM
+INFO 2025-03-26 06:59:14,081 views 150609 135497376569024 Match results: {
+  "match_score": 20,
+  "missing_skills": [
+    "terraform",
+    "ansible",
+    "azure"
+  ],
+  "summary": "The candidate demonstrates strong skills in various aspects of backend development, including experience with AWS and databases such as MongoDB and MySQL.  However, they lack the core DevOps skills required for this role, such as Terraform, Ansible, and Azure. Their experience is predominantly focused on frontend and backend development within a MERN stack environment and while they use Linux and AWS, this doesn't directly translate to DevOps expertise.  Additional training or experience in core DevOps tools is needed."
+}
+INFO 2025-03-26 06:59:14,082 views 150609 135497376569024 Creating job match with data: {
+  "candidate": 18,
+  "job": 2,
+  "match_score": 20,
+  "missing_skills": [
+    "terraform",
+    "ansible",
+    "azure"
+  ],
+  "summary": "The candidate demonstrates strong skills in various aspects of backend development, including experience with AWS and databases such as MongoDB and MySQL.  However, they lack the core DevOps skills required for this role, such as Terraform, Ansible, and Azure. Their experience is predominantly focused on frontend and backend development within a MERN stack environment and while they use Linux and AWS, this doesn't directly translate to DevOps expertise.  Additional training or experience in core DevOps tools is needed."
+}
+INFO 2025-03-26 06:59:14,096 views 150609 135497376569024 Successfully created job match: {
+  "id": 31,
+  "candidate": 18,
+  "job": 2,
+  "match_score": 20,
+  "missing_skills": [
+    "terraform",
+    "ansible",
+    "azure"
+  ],
+  "summary": "The candidate demonstrates strong skills in various aspects of backend development, including experience with AWS and databases such as MongoDB and MySQL.  However, they lack the core DevOps skills required for this role, such as Terraform, Ansible, and Azure. Their experience is predominantly focused on frontend and backend development within a MERN stack environment and while they use Linux and AWS, this doesn't directly translate to DevOps expertise.  Additional training or experience in core DevOps tools is needed."
+}
+INFO 2025-03-26 06:59:20,286 views 150609 135497376569024 Starting candidate matching process
+INFO 2025-03-26 06:59:20,287 views 150609 135497376569024 Request data: {'candidate_id': 18, 'job_id': 2}
+INFO 2025-03-26 06:59:20,287 views 150609 135497376569024 Looking up candidate 18 and job 2
+INFO 2025-03-26 06:59:20,294 views 150609 135497376569024 Getting match results from LLM
+INFO 2025-03-26 06:59:21,863 views 150609 135497376569024 Match results: {
+  "match_score": 20,
+  "missing_skills": [
+    "terraform",
+    "ansible",
+    "azure"
+  ],
+  "summary": "The candidate demonstrates strong full-stack development skills with extensive experience in JavaScript frameworks (React, Next.js, Node.js, Express.js), databases (MongoDB, MySQL, Redis), cloud services (AWS), and DevOps-related tools (Docker, Git).  However, they lack experience with Terraform, Ansible, and Azure, which are key requirements for this DevOps role."
+}
+INFO 2025-03-26 06:59:21,863 views 150609 135497376569024 Creating job match with data: {
+  "candidate": 18,
+  "job": 2,
+  "match_score": 20,
+  "missing_skills": [
+    "terraform",
+    "ansible",
+    "azure"
+  ],
+  "summary": "The candidate demonstrates strong full-stack development skills with extensive experience in JavaScript frameworks (React, Next.js, Node.js, Express.js), databases (MongoDB, MySQL, Redis), cloud services (AWS), and DevOps-related tools (Docker, Git).  However, they lack experience with Terraform, Ansible, and Azure, which are key requirements for this DevOps role."
+}
+INFO 2025-03-26 06:59:21,880 views 150609 135497376569024 Successfully created job match: {
+  "id": 32,
+  "candidate": 18,
+  "job": 2,
+  "match_score": 20,
+  "missing_skills": [
+    "terraform",
+    "ansible",
+    "azure"
+  ],
+  "summary": "The candidate demonstrates strong full-stack development skills with extensive experience in JavaScript frameworks (React, Next.js, Node.js, Express.js), databases (MongoDB, MySQL, Redis), cloud services (AWS), and DevOps-related tools (Docker, Git).  However, they lack experience with Terraform, Ansible, and Azure, which are key requirements for this DevOps role."
+}
+INFO 2025-03-26 06:59:25,464 views 150609 135497376569024 Starting cover letter generation for match 32
+INFO 2025-03-26 06:59:25,467 views 150609 135497376569024 Getting cover letter from LLM
+INFO 2025-03-26 06:59:28,826 views 150609 135497376569024 Successfully generated cover letter
+INFO 2025-03-26 07:00:40,426 views 150609 135497556948672 Starting resume upload process
+INFO 2025-03-26 07:00:40,427 views 150609 135497556948672 Request files: <MultiValueDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1.pdf ()>]}>
+INFO 2025-03-26 07:00:40,427 views 150609 135497556948672 Request data: <QueryDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1.pdf ()>]}>
+INFO 2025-03-26 07:00:40,428 views 150609 135497556948672 Received file: Tarun Kumar resume-1.pdf, size: 83527 bytes
+INFO 2025-03-26 07:00:40,428 views 150609 135497556948672 Read 83527 bytes from file
+INFO 2025-03-26 07:00:40,543 views 150609 135497556948672 Extracted text length: 2706 characters
+INFO 2025-03-26 07:00:45,631 views 150609 135497556948672 Successfully parsed resume data: {
+  "name": "Tarun Kumar",
+  "skills": [
+    "JavaScript",
+    "React JS",
+    "Redux/Redux Toolkit",
+    "Next.js",
+    "TypeScript",
+    "React Native",
+    "Tailwind",
+    "Node.js",
+    "Express.js",
+    "Git/GitHub",
+    "Docker",
+    "AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)",
+    "Linux",
+    "MongoDB",
+    "MySQL",
+    "Mongodb aggregation pipeline",
+    "Redis",
+    "Socket.io",
+    "Firebase",
+    "BullMQ",
+    "MSG91",
+    "Augmont",
+    "JWT",
+    "MERN stack",
+    "Web3 storage"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Application",
+      "institution": null,
+      "year": "2021\u20132023"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Triangle Syscom",
+      "position": "Back End Developer (intern)",
+      "duration": "Oct 2023 - Mar 2024",
+      "description": "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."
+    },
+    {
+      "company": "Freelancing",
+      "position": "Backend developer",
+      "duration": "Mar 2024 - June 2024",
+      "description": "Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis."
+    },
+    {
+      "company": "Rooba finance",
+      "position": "Full stack Developer",
+      "duration": "Apr 2024 - Present",
+      "description": "Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage."
+    }
+  ]
+}
+INFO 2025-03-26 07:00:45,648 views 150609 135497556948672 Successfully created candidate profile: {'id': 19, 'name': 'Tarun Kumar', 'skills': ['JavaScript', 'React JS', 'Redux/Redux Toolkit', 'Next.js', 'TypeScript', 'React Native', 'Tailwind', 'Node.js', 'Express.js', 'Git/GitHub', 'Docker', 'AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)', 'Linux', 'MongoDB', 'MySQL', 'Mongodb aggregation pipeline', 'Redis', 'Socket.io', 'Firebase', 'BullMQ', 'MSG91', 'Augmont', 'JWT', 'MERN stack', 'Web3 storage'], 'education': [{'degree': 'Bachelor of Computer Application', 'institution': None, 'year': '2021–2023'}], 'work_experience': [{'company': 'Triangle Syscom', 'position': 'Back End Developer (intern)', 'duration': 'Oct 2023 - Mar 2024', 'description': "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."}, {'company': 'Freelancing', 'position': 'Backend developer', 'duration': 'Mar 2024 - June 2024', 'description': 'Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis.'}, {'company': 'Rooba finance', 'position': 'Full stack Developer', 'duration': 'Apr 2024 - Present', 'description': 'Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage.'}]}
+INFO 2025-03-26 07:01:56,917 views 150609 135497556948672 Starting candidate matching process
+INFO 2025-03-26 07:01:56,918 views 150609 135497556948672 Request data: {'candidate_id': 19, 'job_id': 1}
+INFO 2025-03-26 07:01:56,918 views 150609 135497556948672 Looking up candidate 19 and job 1
+INFO 2025-03-26 07:01:56,922 views 150609 135497556948672 Getting match results from LLM
+INFO 2025-03-26 07:01:58,331 views 150609 135497556948672 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, and TypeScript, exceeding the job requirements.  Their experience with backend technologies like Node.js and Express.js, along with their familiarity with various databases and cloud services (AWS), demonstrates a well-rounded skillset.  The candidate's work history showcases successful project implementations using the specified technologies, making them a strong match for the role."
+}
+INFO 2025-03-26 07:01:58,332 views 150609 135497556948672 Creating job match with data: {
+  "candidate": 19,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, and TypeScript, exceeding the job requirements.  Their experience with backend technologies like Node.js and Express.js, along with their familiarity with various databases and cloud services (AWS), demonstrates a well-rounded skillset.  The candidate's work history showcases successful project implementations using the specified technologies, making them a strong match for the role."
+}
+INFO 2025-03-26 07:01:58,349 views 150609 135497556948672 Successfully created job match: {
+  "id": 33,
+  "candidate": 19,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, React JS, Next.js, and TypeScript, exceeding the job requirements.  Their experience with backend technologies like Node.js and Express.js, along with their familiarity with various databases and cloud services (AWS), demonstrates a well-rounded skillset.  The candidate's work history showcases successful project implementations using the specified technologies, making them a strong match for the role."
+}
+WARNING 2025-03-26 07:02:49,181 log 150609 135497556948672 Not Found: /favicon.ico
+INFO 2025-03-26 07:06:28,250 views 150609 135497217205952 Starting resume upload process
+INFO 2025-03-26 07:06:28,252 views 150609 135497217205952 Request files: <MultiValueDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1.pdf ()>]}>
+INFO 2025-03-26 07:06:28,252 views 150609 135497217205952 Request data: <QueryDict: {'resume': [<InMemoryUploadedFile: Tarun Kumar resume-1.pdf ()>]}>
+INFO 2025-03-26 07:06:28,253 views 150609 135497217205952 Received file: Tarun Kumar resume-1.pdf, size: 83527 bytes
+INFO 2025-03-26 07:06:28,253 views 150609 135497217205952 Read 83527 bytes from file
+INFO 2025-03-26 07:06:28,442 views 150609 135497217205952 Extracted text length: 2706 characters
+INFO 2025-03-26 07:06:35,333 views 150609 135497217205952 Successfully parsed resume data: {
+  "name": "Tarun Kumar",
+  "skills": [
+    "JavaScript",
+    "React JS",
+    "Redux/Redux Toolkit",
+    "Next.js",
+    "TypeScript",
+    "React Native",
+    "Tailwind",
+    "Node.js",
+    "Express.js",
+    "Git/GitHub",
+    "Docker",
+    "AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)",
+    "Linux",
+    "MongoDB",
+    "MySQL",
+    "Mongodb aggregation pipeline",
+    "Redis",
+    "Socket.io",
+    "Firebase",
+    "BullMQ",
+    "MSG91",
+    "Augmont",
+    "JWT",
+    "MERN stack",
+    "HTML",
+    "React Redux"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Application",
+      "institution": null,
+      "year": "2021\u20132023"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Triangle Syscom",
+      "position": "Back End Developer (intern)",
+      "duration": "Oct 2023 - Mar 2024",
+      "description": "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."
+    },
+    {
+      "company": "Freelancing",
+      "position": "Backend developer",
+      "duration": "Mar 2024 - June 2024",
+      "description": "Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis."
+    },
+    {
+      "company": "Rooba finance",
+      "position": "Full stack Developer",
+      "duration": "Apr 2024 - Present",
+      "description": "Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage."
+    }
+  ]
+}
+INFO 2025-03-26 07:06:35,348 views 150609 135497217205952 Successfully created candidate profile: {'id': 20, 'name': 'Tarun Kumar', 'skills': ['JavaScript', 'React JS', 'Redux/Redux Toolkit', 'Next.js', 'TypeScript', 'React Native', 'Tailwind', 'Node.js', 'Express.js', 'Git/GitHub', 'Docker', 'AWS (code pipeline, ec2, s3, eventbridge, sns, etc.)', 'Linux', 'MongoDB', 'MySQL', 'Mongodb aggregation pipeline', 'Redis', 'Socket.io', 'Firebase', 'BullMQ', 'MSG91', 'Augmont', 'JWT', 'MERN stack', 'HTML', 'React Redux'], 'education': [{'degree': 'Bachelor of Computer Application', 'institution': None, 'year': '2021–2023'}], 'work_experience': [{'company': 'Triangle Syscom', 'position': 'Back End Developer (intern)', 'duration': 'Oct 2023 - Mar 2024', 'description': "Engineered a backend system for investor-customer management, implementing access controls and a matching algorithm that increased partnership formation by 30%. Developed an automated email system with 4 types using AWS SNS, reducing follow-up time by 60% and achieving 99.9% delivery rate and automate with Aws eventbridge. Utilized MongoDB's aggregation pipeline for data manipulation, accelerating query performance by 40%. Implemented email scheduling and cessation mechanism, increasing engagement rates by 25% and reducing follow-ups by 50%."}, {'company': 'Freelancing', 'position': 'Backend developer', 'duration': 'Mar 2024 - June 2024', 'description': 'Built backend for two apps enabling live location tracking of partners and customers using Redis and Socket.io. Implemented real-time order completion updates with Socket.io and push notifications via Firebase. Developed queue management system using BullMQ for efficient task processing. Integrated MSG91 for OTP services with rate limiting, and Augmont for gold/silver transactions. Utilized MongoDB aggregation pipeline for complex data retrieval and analysis.'}, {'company': 'Rooba finance', 'position': 'Full stack Developer', 'duration': 'Apr 2024 - Present', 'description': 'Developed interconnected panels for tokenizing digital assets, managing token agents, and facilitating investments using React and Next.js. Implemented global state management across user panels with React Redux, efficiently handling form data persistence. Built backend infrastructure using MERN stack (MongoDB, Express.js, React, Node.js) to support blockchain operations. Created a task management panel with document handling, storing information securely on decentralized Web3 storage.'}]}
+INFO 2025-03-26 07:06:48,798 views 150609 135497217205952 Starting candidate matching process
+INFO 2025-03-26 07:06:48,803 views 150609 135497217205952 Request data: {'candidate_id': 20, 'job_id': 3}
+INFO 2025-03-26 07:06:48,805 views 150609 135497217205952 Looking up candidate 20 and job 3
+INFO 2025-03-26 07:06:48,817 views 150609 135497217205952 Getting match results from LLM
+INFO 2025-03-26 07:06:50,180 views 150609 135497217205952 Match results: {
+  "match_score": 90,
+  "missing_skills": [],
+  "summary": "Tarun Kumar is a strong candidate with extensive experience in backend development using Node.js, JavaScript, TypeScript, MongoDB, and MySQL. His experience aligns well with the job requirements, exceeding the specified 3 years of experience.  His portfolio showcases multiple projects demonstrating proficiency in the required technologies and a solid understanding of backend architecture.  While lacking explicit years of experience, the projects show significant relevant experience."
+}
+INFO 2025-03-26 07:06:50,181 views 150609 135497217205952 Creating job match with data: {
+  "candidate": 20,
+  "job": 3,
+  "match_score": 90,
+  "missing_skills": [],
+  "summary": "Tarun Kumar is a strong candidate with extensive experience in backend development using Node.js, JavaScript, TypeScript, MongoDB, and MySQL. His experience aligns well with the job requirements, exceeding the specified 3 years of experience.  His portfolio showcases multiple projects demonstrating proficiency in the required technologies and a solid understanding of backend architecture.  While lacking explicit years of experience, the projects show significant relevant experience."
+}
+INFO 2025-03-26 07:06:50,208 views 150609 135497217205952 Successfully created job match: {
+  "id": 34,
+  "candidate": 20,
+  "job": 3,
+  "match_score": 90,
+  "missing_skills": [],
+  "summary": "Tarun Kumar is a strong candidate with extensive experience in backend development using Node.js, JavaScript, TypeScript, MongoDB, and MySQL. His experience aligns well with the job requirements, exceeding the specified 3 years of experience.  His portfolio showcases multiple projects demonstrating proficiency in the required technologies and a solid understanding of backend architecture.  While lacking explicit years of experience, the projects show significant relevant experience."
+}
+INFO 2025-03-26 07:07:14,092 views 150609 135497225598656 Starting candidate matching process
+INFO 2025-03-26 07:07:14,093 views 150609 135497225598656 Request data: {'candidate_id': 20, 'job_id': 1}
+INFO 2025-03-26 07:07:14,093 views 150609 135497225598656 Looking up candidate 20 and job 1
+INFO 2025-03-26 07:07:14,098 views 150609 135497225598656 Getting match results from LLM
+INFO 2025-03-26 07:07:15,377 views 150609 135497225598656 Match results: {
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, ReactJS, Next.js, Redux, and TypeScript, exceeding the minimum requirements.  Their experience also encompasses backend development and DevOps, showcasing a well-rounded skillset.  The candidate's work history demonstrates proficiency in building complex applications and leveraging various technologies."
+}
+INFO 2025-03-26 07:07:15,377 views 150609 135497225598656 Creating job match with data: {
+  "candidate": 20,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, ReactJS, Next.js, Redux, and TypeScript, exceeding the minimum requirements.  Their experience also encompasses backend development and DevOps, showcasing a well-rounded skillset.  The candidate's work history demonstrates proficiency in building complex applications and leveraging various technologies."
+}
+INFO 2025-03-26 07:07:15,391 views 150609 135497225598656 Successfully created job match: {
+  "id": 35,
+  "candidate": 20,
+  "job": 1,
+  "match_score": 95,
+  "missing_skills": [],
+  "summary": "The candidate possesses extensive frontend skills including React, ReactJS, Next.js, Redux, and TypeScript, exceeding the minimum requirements.  Their experience also encompasses backend development and DevOps, showcasing a well-rounded skillset.  The candidate's work history demonstrates proficiency in building complex applications and leveraging various technologies."
+}
+INFO 2025-03-26 07:07:20,794 views 150609 135497225598656 Starting candidate matching process
+INFO 2025-03-26 07:07:20,795 views 150609 135497225598656 Request data: {'candidate_id': 20, 'job_id': 2}
+INFO 2025-03-26 07:07:20,795 views 150609 135497225598656 Looking up candidate 20 and job 2
+INFO 2025-03-26 07:07:20,805 views 150609 135497225598656 Getting match results from LLM
+INFO 2025-03-26 07:07:22,131 views 150609 135497225598656 Match results: {
+  "match_score": 25,
+  "missing_skills": [
+    "terraform",
+    "ansible",
+    "azure"
+  ],
+  "summary": "The candidate has experience with Linux and some cloud technologies (AWS), but lacks crucial DevOps skills like Terraform, Ansible, and Azure, which are explicitly required for this role.  Their strong frontend and backend skills are not directly relevant to the DevOps position."
+}
+INFO 2025-03-26 07:07:22,132 views 150609 135497225598656 Creating job match with data: {
+  "candidate": 20,
+  "job": 2,
+  "match_score": 25,
+  "missing_skills": [
+    "terraform",
+    "ansible",
+    "azure"
+  ],
+  "summary": "The candidate has experience with Linux and some cloud technologies (AWS), but lacks crucial DevOps skills like Terraform, Ansible, and Azure, which are explicitly required for this role.  Their strong frontend and backend skills are not directly relevant to the DevOps position."
+}
+INFO 2025-03-26 07:07:22,165 views 150609 135497225598656 Successfully created job match: {
+  "id": 36,
+  "candidate": 20,
+  "job": 2,
+  "match_score": 25,
+  "missing_skills": [
+    "terraform",
+    "ansible",
+    "azure"
+  ],
+  "summary": "The candidate has experience with Linux and some cloud technologies (AWS), but lacks crucial DevOps skills like Terraform, Ansible, and Azure, which are explicitly required for this role.  Their strong frontend and backend skills are not directly relevant to the DevOps position."
+}
+INFO 2025-03-26 07:07:28,551 views 150609 135497225598656 Starting candidate matching process
+INFO 2025-03-26 07:07:28,552 views 150609 135497225598656 Request data: {'candidate_id': 20, 'job_id': 3}
+INFO 2025-03-26 07:07:28,552 views 150609 135497225598656 Looking up candidate 20 and job 3
+INFO 2025-03-26 07:07:28,558 views 150609 135497225598656 Getting match results from LLM
+INFO 2025-03-26 07:07:30,011 views 150609 135497225598656 Match results: {
+  "match_score": 90,
+  "missing_skills": [],
+  "summary": "Tarun Kumar is a strong candidate with extensive experience in backend development, possessing all the required skills (Node.js, JavaScript, TypeScript, MongoDB, and MySQL).  His experience exceeds the 3-year requirement, showcasing proficiency through multiple projects and roles. His portfolio demonstrates expertise in various relevant technologies and frameworks, including AWS services and real-time communication using Socket.io and Redis.  While his experience is primarily focused on backend, his full-stack experience further enhances his value."
+}
+INFO 2025-03-26 07:07:30,012 views 150609 135497225598656 Creating job match with data: {
+  "candidate": 20,
+  "job": 3,
+  "match_score": 90,
+  "missing_skills": [],
+  "summary": "Tarun Kumar is a strong candidate with extensive experience in backend development, possessing all the required skills (Node.js, JavaScript, TypeScript, MongoDB, and MySQL).  His experience exceeds the 3-year requirement, showcasing proficiency through multiple projects and roles. His portfolio demonstrates expertise in various relevant technologies and frameworks, including AWS services and real-time communication using Socket.io and Redis.  While his experience is primarily focused on backend, his full-stack experience further enhances his value."
+}
+INFO 2025-03-26 07:07:30,029 views 150609 135497225598656 Successfully created job match: {
+  "id": 37,
+  "candidate": 20,
+  "job": 3,
+  "match_score": 90,
+  "missing_skills": [],
+  "summary": "Tarun Kumar is a strong candidate with extensive experience in backend development, possessing all the required skills (Node.js, JavaScript, TypeScript, MongoDB, and MySQL).  His experience exceeds the 3-year requirement, showcasing proficiency through multiple projects and roles. His portfolio demonstrates expertise in various relevant technologies and frameworks, including AWS services and real-time communication using Socket.io and Redis.  While his experience is primarily focused on backend, his full-stack experience further enhances his value."
+}
+INFO 2025-03-26 07:07:33,058 views 150609 135497225598656 Starting cover letter generation for match 37
+INFO 2025-03-26 07:07:33,073 views 150609 135497225598656 Getting cover letter from LLM
+INFO 2025-03-26 07:07:36,373 views 150609 135497225598656 Successfully generated cover letter
+INFO 2025-03-26 07:07:58,277 views 150609 135497225598656 Starting candidate matching process
+INFO 2025-03-26 07:07:58,277 views 150609 135497225598656 Request data: {'candidate_id': 20, 'job_id': 3}
+INFO 2025-03-26 07:07:58,278 views 150609 135497225598656 Looking up candidate 20 and job 3
+INFO 2025-03-26 07:07:58,294 views 150609 135497225598656 Getting match results from LLM
+INFO 2025-03-26 07:07:59,817 views 150609 135497225598656 Match results: {
+  "match_score": 90,
+  "missing_skills": [],
+  "summary": "Tarun Kumar is a strong candidate with extensive experience in backend development, exceeding the required 3 years of experience. His skills and experience align very well with the job requirements, showcasing proficiency in Node.js, JavaScript, TypeScript, MongoDB, and MySQL.  His portfolio demonstrates practical application of these technologies in various projects, including those involving AWS and real-time communication.  The candidate's experience is heavily weighted towards backend, although some frontend work is also present. "
+}
+INFO 2025-03-26 07:07:59,817 views 150609 135497225598656 Creating job match with data: {
+  "candidate": 20,
+  "job": 3,
+  "match_score": 90,
+  "missing_skills": [],
+  "summary": "Tarun Kumar is a strong candidate with extensive experience in backend development, exceeding the required 3 years of experience. His skills and experience align very well with the job requirements, showcasing proficiency in Node.js, JavaScript, TypeScript, MongoDB, and MySQL.  His portfolio demonstrates practical application of these technologies in various projects, including those involving AWS and real-time communication.  The candidate's experience is heavily weighted towards backend, although some frontend work is also present. "
+}
+INFO 2025-03-26 07:07:59,834 views 150609 135497225598656 Successfully created job match: {
+  "id": 38,
+  "candidate": 20,
+  "job": 3,
+  "match_score": 90,
+  "missing_skills": [],
+  "summary": "Tarun Kumar is a strong candidate with extensive experience in backend development, exceeding the required 3 years of experience. His skills and experience align very well with the job requirements, showcasing proficiency in Node.js, JavaScript, TypeScript, MongoDB, and MySQL.  His portfolio demonstrates practical application of these technologies in various projects, including those involving AWS and real-time communication.  The candidate's experience is heavily weighted towards backend, although some frontend work is also present."
+}
+INFO 2025-03-26 07:08:07,036 views 150609 135497225598656 Starting candidate matching process
+INFO 2025-03-26 07:08:07,036 views 150609 135497225598656 Request data: {'candidate_id': 20, 'job_id': 2}
+INFO 2025-03-26 07:08:07,037 views 150609 135497225598656 Looking up candidate 20 and job 2
+INFO 2025-03-26 07:08:07,043 views 150609 135497225598656 Getting match results from LLM
+INFO 2025-03-26 07:08:08,625 views 150609 135497225598656 Match results: {
+  "match_score": 25,
+  "missing_skills": [
+    "terraform",
+    "ansible",
+    "azure"
+  ],
+  "summary": "The candidate demonstrates proficiency in various backend technologies (Node.js, Express.js, MongoDB, AWS services) and frontend frameworks (React, Next.js).  However, they lack essential DevOps skills like Terraform, Ansible, and Azure, which are explicitly required for this role.  Their experience with Linux and cloud technologies (AWS) provides a partial match, but the missing skills significantly reduce their suitability."
+}
+INFO 2025-03-26 07:08:08,626 views 150609 135497225598656 Creating job match with data: {
+  "candidate": 20,
+  "job": 2,
+  "match_score": 25,
+  "missing_skills": [
+    "terraform",
+    "ansible",
+    "azure"
+  ],
+  "summary": "The candidate demonstrates proficiency in various backend technologies (Node.js, Express.js, MongoDB, AWS services) and frontend frameworks (React, Next.js).  However, they lack essential DevOps skills like Terraform, Ansible, and Azure, which are explicitly required for this role.  Their experience with Linux and cloud technologies (AWS) provides a partial match, but the missing skills significantly reduce their suitability."
+}
+INFO 2025-03-26 07:08:08,647 views 150609 135497225598656 Successfully created job match: {
+  "id": 39,
+  "candidate": 20,
+  "job": 2,
+  "match_score": 25,
+  "missing_skills": [
+    "terraform",
+    "ansible",
+    "azure"
+  ],
+  "summary": "The candidate demonstrates proficiency in various backend technologies (Node.js, Express.js, MongoDB, AWS services) and frontend frameworks (React, Next.js).  However, they lack essential DevOps skills like Terraform, Ansible, and Azure, which are explicitly required for this role.  Their experience with Linux and cloud technologies (AWS) provides a partial match, but the missing skills significantly reduce their suitability."
+}
+INFO 2025-03-26 07:08:14,359 views 150609 135497556948672 Starting cover letter generation for match 39
+INFO 2025-03-26 07:08:14,363 views 150609 135497556948672 Getting cover letter from LLM
+INFO 2025-03-26 07:08:17,944 views 150609 135497556948672 Successfully generated cover letter
+WARNING 2025-03-26 07:09:07,900 log 150609 135497556948672 Not Found: /favicon.ico
